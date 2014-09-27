@@ -1,0 +1,9 @@
+D:\ПРОГРАМИСТ\C# Part II\HMClassObject\_05CountOfWorkdays\bin\Debug\_05CountOfWorkdays.exe.config
+D:\ПРОГРАМИСТ\C# Part II\HMClassObject\_05CountOfWorkdays\bin\Debug\_05CountOfWorkdays.exe
+D:\ПРОГРАМИСТ\C# Part II\HMClassObject\_05CountOfWorkdays\bin\Debug\_05CountOfWorkdays.pdb
+D:\ПРОГРАМИСТ\C# Part II\HMClassObject\_05CountOfWorkdays\obj\Debug\_05CountOfWorkdays.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\C# Part II\HMClassObject\_05CountOfWorkdays\obj\Debug\_05CountOfWorkdays.exe
+D:\ПРОГРАМИСТ\C# Part II\HMClassObject\_05CountOfWorkdays\obj\Debug\_05CountOfWorkdays.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMClassObject\_05CountOfWorkdays\bin\Debug\_05CountOfWorkdays.exe.config
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMClassObject\_05CountOfWorkdays\obj\Debug\_05CountOfWorkdays.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMClassObject\_05CountOfWorkdays\obj\Debug\_05CountOfWorkdays.pdb

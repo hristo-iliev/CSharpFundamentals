@@ -1,0 +1,9 @@
+D:\ПРОГРАМИСТ\C# Part II\HMClassObject\_01LeapYear\bin\Debug\_01LeapYear.exe.config
+D:\ПРОГРАМИСТ\C# Part II\HMClassObject\_01LeapYear\bin\Debug\_01LeapYear.exe
+D:\ПРОГРАМИСТ\C# Part II\HMClassObject\_01LeapYear\bin\Debug\_01LeapYear.pdb
+D:\ПРОГРАМИСТ\C# Part II\HMClassObject\_01LeapYear\obj\Debug\_01LeapYear.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\C# Part II\HMClassObject\_01LeapYear\obj\Debug\_01LeapYear.exe
+D:\ПРОГРАМИСТ\C# Part II\HMClassObject\_01LeapYear\obj\Debug\_01LeapYear.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMClassObject\_01LeapYear\bin\Debug\_01LeapYear.exe.config
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMClassObject\_01LeapYear\obj\Debug\_01LeapYear.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMClassObject\_01LeapYear\obj\Debug\_01LeapYear.pdb

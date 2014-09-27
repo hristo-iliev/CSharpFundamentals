@@ -1,0 +1,9 @@
+D:\Programist\C# Part II\HMNumeralSystems\_02BinaryToDecimal\bin\Debug\_02BinaryToDecimal.exe.config
+D:\Programist\C# Part II\HMNumeralSystems\_02BinaryToDecimal\obj\Debug\_02BinaryToDecimal.csprojResolveAssemblyReference.cache
+D:\Programist\C# Part II\HMNumeralSystems\_02BinaryToDecimal\bin\Debug\_02BinaryToDecimal.exe
+D:\Programist\C# Part II\HMNumeralSystems\_02BinaryToDecimal\bin\Debug\_02BinaryToDecimal.pdb
+D:\Programist\C# Part II\HMNumeralSystems\_02BinaryToDecimal\obj\Debug\_02BinaryToDecimal.exe
+D:\Programist\C# Part II\HMNumeralSystems\_02BinaryToDecimal\obj\Debug\_02BinaryToDecimal.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMNumeralSystems\_02BinaryToDecimal\bin\Debug\_02BinaryToDecimal.exe.config
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMNumeralSystems\_02BinaryToDecimal\obj\Debug\_02BinaryToDecimal.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMNumeralSystems\_02BinaryToDecimal\obj\Debug\_02BinaryToDecimal.pdb

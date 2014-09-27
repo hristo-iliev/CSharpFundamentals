@@ -1,0 +1,9 @@
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_07Zerg!!!\bin\Debug\_07Zerg!!!.exe.config
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_07Zerg!!!\bin\Debug\_07Zerg!!!.exe
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_07Zerg!!!\bin\Debug\_07Zerg!!!.pdb
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_07Zerg!!!\obj\Debug\_07Zerg!!!.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_07Zerg!!!\obj\Debug\_07Zerg!!!.exe
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_07Zerg!!!\obj\Debug\_07Zerg!!!.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\ExamPreparation\_07Zerg!!!\bin\Debug\_07Zerg!!!.exe.config
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\ExamPreparation\_07Zerg!!!\obj\Debug\_07Zerg!!!.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\ExamPreparation\_07Zerg!!!\obj\Debug\_07Zerg!!!.pdb

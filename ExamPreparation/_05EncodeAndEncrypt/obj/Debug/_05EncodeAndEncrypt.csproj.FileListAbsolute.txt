@@ -1,0 +1,9 @@
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_05EncodeAndEncrypt\bin\Debug\_05EncodeAndEncrypt.exe.config
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_05EncodeAndEncrypt\bin\Debug\_05EncodeAndEncrypt.exe
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_05EncodeAndEncrypt\bin\Debug\_05EncodeAndEncrypt.pdb
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_05EncodeAndEncrypt\obj\Debug\_05EncodeAndEncrypt.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_05EncodeAndEncrypt\obj\Debug\_05EncodeAndEncrypt.exe
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_05EncodeAndEncrypt\obj\Debug\_05EncodeAndEncrypt.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\ExamPreparation\_05EncodeAndEncrypt\bin\Debug\_05EncodeAndEncrypt.exe.config
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\ExamPreparation\_05EncodeAndEncrypt\obj\Debug\_05EncodeAndEncrypt.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\ExamPreparation\_05EncodeAndEncrypt\obj\Debug\_05EncodeAndEncrypt.pdb

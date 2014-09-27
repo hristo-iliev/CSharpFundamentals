@@ -1,0 +1,5 @@
+D:\Programist\C# Part II\HomeWorkMethods\_03LastDigitAsWord\bin\Debug\_03LastDigitAsWord.exe.config
+D:\Programist\C# Part II\HomeWorkMethods\_03LastDigitAsWord\bin\Debug\_03LastDigitAsWord.exe
+D:\Programist\C# Part II\HomeWorkMethods\_03LastDigitAsWord\bin\Debug\_03LastDigitAsWord.pdb
+D:\Programist\C# Part II\HomeWorkMethods\_03LastDigitAsWord\obj\Debug\_03LastDigitAsWord.exe
+D:\Programist\C# Part II\HomeWorkMethods\_03LastDigitAsWord\obj\Debug\_03LastDigitAsWord.pdb

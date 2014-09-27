@@ -1,0 +1,12 @@
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_22WordsInText\bin\Debug\_22WordsInText.exe.config
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_22WordsInText\bin\Debug\_22WordsInText.exe
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_22WordsInText\bin\Debug\_22WordsInText.pdb
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_22WordsInText\obj\Debug\_22WordsInText.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_22WordsInText\obj\Debug\_22WordsInText.exe
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_22WordsInText\obj\Debug\_22WordsInText.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_22WordsInText\bin\Debug\_22WordsInText.exe.config
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_22WordsInText\obj\Debug\_22WordsInText.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_22WordsInText\obj\Debug\_22WordsInText.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_22WordsInText\bin\Debug\_22WordsInText.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_22WordsInText\bin\Debug\_22WordsInText.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_22WordsInText\obj\Debug\_22WordsInText.csprojResolveAssemblyReference.cache

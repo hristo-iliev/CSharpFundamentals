@@ -1,0 +1,9 @@
+D:\ПРОГРАМИСТ\C# Part II\HMClassObject\_04SurfaceOfTriangle\bin\Debug\_04SurfaceOfTriangle.exe.config
+D:\ПРОГРАМИСТ\C# Part II\HMClassObject\_04SurfaceOfTriangle\obj\Debug\_04SurfaceOfTriangle.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\C# Part II\HMClassObject\_04SurfaceOfTriangle\bin\Debug\_04SurfaceOfTriangle.exe
+D:\ПРОГРАМИСТ\C# Part II\HMClassObject\_04SurfaceOfTriangle\bin\Debug\_04SurfaceOfTriangle.pdb
+D:\ПРОГРАМИСТ\C# Part II\HMClassObject\_04SurfaceOfTriangle\obj\Debug\_04SurfaceOfTriangle.exe
+D:\ПРОГРАМИСТ\C# Part II\HMClassObject\_04SurfaceOfTriangle\obj\Debug\_04SurfaceOfTriangle.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMClassObject\_04SurfaceOfTriangle\bin\Debug\_04SurfaceOfTriangle.exe.config
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMClassObject\_04SurfaceOfTriangle\obj\Debug\_04SurfaceOfTriangle.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMClassObject\_04SurfaceOfTriangle\obj\Debug\_04SurfaceOfTriangle.pdb

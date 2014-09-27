@@ -1,0 +1,9 @@
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_16TwoIsBetterThanOne\bin\Debug\_16TwoIsBetterThanOne.exe.config
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_16TwoIsBetterThanOne\bin\Debug\_16TwoIsBetterThanOne.exe
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_16TwoIsBetterThanOne\bin\Debug\_16TwoIsBetterThanOne.pdb
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_16TwoIsBetterThanOne\obj\Debug\_16TwoIsBetterThanOne.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_16TwoIsBetterThanOne\obj\Debug\_16TwoIsBetterThanOne.exe
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_16TwoIsBetterThanOne\obj\Debug\_16TwoIsBetterThanOne.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\ExamPreparation\_16TwoIsBetterThanOne\bin\Debug\_16TwoIsBetterThanOne.exe.config
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\ExamPreparation\_16TwoIsBetterThanOne\obj\Debug\_16TwoIsBetterThanOne.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\ExamPreparation\_16TwoIsBetterThanOne\obj\Debug\_16TwoIsBetterThanOne.pdb

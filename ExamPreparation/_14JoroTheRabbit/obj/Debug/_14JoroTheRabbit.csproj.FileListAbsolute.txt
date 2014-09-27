@@ -1,0 +1,9 @@
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_14JoroTheRabbit\bin\Debug\_14JoroTheRabbit.exe.config
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_14JoroTheRabbit\bin\Debug\_14JoroTheRabbit.exe
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_14JoroTheRabbit\bin\Debug\_14JoroTheRabbit.pdb
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_14JoroTheRabbit\obj\Debug\_14JoroTheRabbit.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_14JoroTheRabbit\obj\Debug\_14JoroTheRabbit.exe
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_14JoroTheRabbit\obj\Debug\_14JoroTheRabbit.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\ExamPreparation\_14JoroTheRabbit\bin\Debug\_14JoroTheRabbit.exe.config
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\ExamPreparation\_14JoroTheRabbit\obj\Debug\_14JoroTheRabbit.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\ExamPreparation\_14JoroTheRabbit\obj\Debug\_14JoroTheRabbit.pdb

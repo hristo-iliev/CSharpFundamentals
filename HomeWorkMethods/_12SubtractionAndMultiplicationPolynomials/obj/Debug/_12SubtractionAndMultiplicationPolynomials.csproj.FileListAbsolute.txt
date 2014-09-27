@@ -1,0 +1,6 @@
+D:\Programist\C# Part II\HomeWorkMethods\_12SubtractionAndMultiplicationPolynomials\bin\Debug\_12SubtractionAndMultiplicationPolynomials.exe.config
+D:\Programist\C# Part II\HomeWorkMethods\_12SubtractionAndMultiplicationPolynomials\bin\Debug\_12SubtractionAndMultiplicationPolynomials.exe
+D:\Programist\C# Part II\HomeWorkMethods\_12SubtractionAndMultiplicationPolynomials\bin\Debug\_12SubtractionAndMultiplicationPolynomials.pdb
+D:\Programist\C# Part II\HomeWorkMethods\_12SubtractionAndMultiplicationPolynomials\obj\Debug\_12SubtractionAndMultiplicationPolynomials.exe
+D:\Programist\C# Part II\HomeWorkMethods\_12SubtractionAndMultiplicationPolynomials\obj\Debug\_12SubtractionAndMultiplicationPolynomials.pdb
+D:\Programist\C# Part II\HomeWorkMethods\_12SubtractionAndMultiplicationPolynomials\obj\Debug\_12SubtractionAndMultiplicationPolynomials.csprojResolveAssemblyReference.cache

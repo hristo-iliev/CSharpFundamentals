@@ -1,0 +1,8 @@
+D:\Programist\C# Part II\HMNumeralSystems\_04HexadecimalToDecimal\bin\Debug\_04HexadecimalToDecimal.exe.config
+D:\Programist\C# Part II\HMNumeralSystems\_04HexadecimalToDecimal\bin\Debug\_04HexadecimalToDecimal.exe
+D:\Programist\C# Part II\HMNumeralSystems\_04HexadecimalToDecimal\bin\Debug\_04HexadecimalToDecimal.pdb
+D:\Programist\C# Part II\HMNumeralSystems\_04HexadecimalToDecimal\obj\Debug\_04HexadecimalToDecimal.exe
+D:\Programist\C# Part II\HMNumeralSystems\_04HexadecimalToDecimal\obj\Debug\_04HexadecimalToDecimal.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMNumeralSystems\_04HexadecimalToDecimal\bin\Debug\_04HexadecimalToDecimal.exe.config
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMNumeralSystems\_04HexadecimalToDecimal\obj\Debug\_04HexadecimalToDecimal.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMNumeralSystems\_04HexadecimalToDecimal\obj\Debug\_04HexadecimalToDecimal.pdb

@@ -1,0 +1,9 @@
+D:\Programist\C# Part II\HomeWorkMethods\_11AddingPolynomials\bin\Debug\_11AddingPolynomials.exe.config
+D:\Programist\C# Part II\HomeWorkMethods\_11AddingPolynomials\bin\Debug\_11AddingPolynomials.exe
+D:\Programist\C# Part II\HomeWorkMethods\_11AddingPolynomials\bin\Debug\_11AddingPolynomials.pdb
+D:\Programist\C# Part II\HomeWorkMethods\_11AddingPolynomials\obj\Debug\_11AddingPolynomials.csprojResolveAssemblyReference.cache
+D:\Programist\C# Part II\HomeWorkMethods\_11AddingPolynomials\obj\Debug\_11AddingPolynomials.exe
+D:\Programist\C# Part II\HomeWorkMethods\_11AddingPolynomials\obj\Debug\_11AddingPolynomials.pdb
+D:\ПРОГРАМИСТ\C# Part II\HomeWorkMethods\_11AddingPolynomials\bin\Debug\_11AddingPolynomials.exe.config
+D:\ПРОГРАМИСТ\C# Part II\HomeWorkMethods\_11AddingPolynomials\obj\Debug\_11AddingPolynomials.exe
+D:\ПРОГРАМИСТ\C# Part II\HomeWorkMethods\_11AddingPolynomials\obj\Debug\_11AddingPolynomials.pdb

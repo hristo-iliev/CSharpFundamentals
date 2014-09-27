@@ -1,0 +1,9 @@
+D:\ПРОГРАМИСТ\C# Part II\HMTextFiles\_04TextFilesComparing\bin\Debug\_04TextFilesComparing.exe.config
+D:\ПРОГРАМИСТ\C# Part II\HMTextFiles\_04TextFilesComparing\bin\Debug\_04TextFilesComparing.exe
+D:\ПРОГРАМИСТ\C# Part II\HMTextFiles\_04TextFilesComparing\bin\Debug\_04TextFilesComparing.pdb
+D:\ПРОГРАМИСТ\C# Part II\HMTextFiles\_04TextFilesComparing\obj\Debug\_04TextFilesComparing.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\C# Part II\HMTextFiles\_04TextFilesComparing\obj\Debug\_04TextFilesComparing.exe
+D:\ПРОГРАМИСТ\C# Part II\HMTextFiles\_04TextFilesComparing\obj\Debug\_04TextFilesComparing.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMTextFiles\_04TextFilesComparing\bin\Debug\_04TextFilesComparing.exe.config
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMTextFiles\_04TextFilesComparing\obj\Debug\_04TextFilesComparing.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMTextFiles\_04TextFilesComparing\obj\Debug\_04TextFilesComparing.pdb

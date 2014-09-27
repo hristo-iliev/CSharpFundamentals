@@ -1,0 +1,12 @@
+D:\Programist\C# Part II\HomeWorkMethods\_15GenericMethod\bin\Debug\_15GenericMethod.exe.config
+D:\Programist\C# Part II\HomeWorkMethods\_15GenericMethod\obj\Debug\_15GenericMethod.csprojResolveAssemblyReference.cache
+D:\Programist\C# Part II\HomeWorkMethods\_15GenericMethod\bin\Debug\_15GenericMethod.exe
+D:\Programist\C# Part II\HomeWorkMethods\_15GenericMethod\bin\Debug\_15GenericMethod.pdb
+D:\Programist\C# Part II\HomeWorkMethods\_15GenericMethod\obj\Debug\_15GenericMethod.exe
+D:\Programist\C# Part II\HomeWorkMethods\_15GenericMethod\obj\Debug\_15GenericMethod.pdb
+D:\ПРОГРАМИСТ\C# Part II\HomeWorkMethods\_15GenericMethod\bin\Debug\_15GenericMethod.exe.config
+D:\ПРОГРАМИСТ\C# Part II\HomeWorkMethods\_15GenericMethod\obj\Debug\_15GenericMethod.exe
+D:\ПРОГРАМИСТ\C# Part II\HomeWorkMethods\_15GenericMethod\obj\Debug\_15GenericMethod.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HomeWorkMethods\_15GenericMethod\bin\Debug\_15GenericMethod.exe.config
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HomeWorkMethods\_15GenericMethod\obj\Debug\_15GenericMethod.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HomeWorkMethods\_15GenericMethod\obj\Debug\_15GenericMethod.pdb

@@ -1,0 +1,10 @@
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_08SentencesContainingGivenWord\bin\Debug\_08SentencesContainingGivenWord.exe.config
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_08SentencesContainingGivenWord\bin\Debug\_08SentencesContainingGivenWord.exe
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_08SentencesContainingGivenWord\bin\Debug\_08SentencesContainingGivenWord.pdb
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_08SentencesContainingGivenWord\obj\Debug\_08SentencesContainingGivenWord.exe
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_08SentencesContainingGivenWord\obj\Debug\_08SentencesContainingGivenWord.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_08SentencesContainingGivenWord\bin\Debug\_08SentencesContainingGivenWord.exe.config
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_08SentencesContainingGivenWord\obj\Debug\_08SentencesContainingGivenWord.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_08SentencesContainingGivenWord\obj\Debug\_08SentencesContainingGivenWord.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_08SentencesContainingGivenWord\bin\Debug\_08SentencesContainingGivenWord.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_08SentencesContainingGivenWord\bin\Debug\_08SentencesContainingGivenWord.pdb

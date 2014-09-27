@@ -1,0 +1,9 @@
+D:\ПРОГРАМИСТ\C# Part II\HMTextFiles\_02ConcatTwoTextFilesIntoAnother\bin\Debug\_02ConcatTwoTextFilesIntoAnother.exe.config
+D:\ПРОГРАМИСТ\C# Part II\HMTextFiles\_02ConcatTwoTextFilesIntoAnother\bin\Debug\_02ConcatTwoTextFilesIntoAnother.exe
+D:\ПРОГРАМИСТ\C# Part II\HMTextFiles\_02ConcatTwoTextFilesIntoAnother\bin\Debug\_02ConcatTwoTextFilesIntoAnother.pdb
+D:\ПРОГРАМИСТ\C# Part II\HMTextFiles\_02ConcatTwoTextFilesIntoAnother\obj\Debug\_02ConcatTwoTextFilesIntoAnother.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\C# Part II\HMTextFiles\_02ConcatTwoTextFilesIntoAnother\obj\Debug\_02ConcatTwoTextFilesIntoAnother.exe
+D:\ПРОГРАМИСТ\C# Part II\HMTextFiles\_02ConcatTwoTextFilesIntoAnother\obj\Debug\_02ConcatTwoTextFilesIntoAnother.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMTextFiles\_02ConcatTwoTextFilesIntoAnother\bin\Debug\_02ConcatTwoTextFilesIntoAnother.exe.config
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMTextFiles\_02ConcatTwoTextFilesIntoAnother\obj\Debug\_02ConcatTwoTextFilesIntoAnother.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMTextFiles\_02ConcatTwoTextFilesIntoAnother\obj\Debug\_02ConcatTwoTextFilesIntoAnother.pdb

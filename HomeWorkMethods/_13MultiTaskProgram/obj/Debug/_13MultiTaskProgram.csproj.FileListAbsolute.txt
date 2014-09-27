@@ -1,0 +1,6 @@
+D:\Programist\C# Part II\HomeWorkMethods\_13MultiTaskProgram\bin\Debug\_13MultiTaskProgram.exe.config
+D:\Programist\C# Part II\HomeWorkMethods\_13MultiTaskProgram\bin\Debug\_13MultiTaskProgram.exe
+D:\Programist\C# Part II\HomeWorkMethods\_13MultiTaskProgram\bin\Debug\_13MultiTaskProgram.pdb
+D:\Programist\C# Part II\HomeWorkMethods\_13MultiTaskProgram\obj\Debug\_13MultiTaskProgram.csprojResolveAssemblyReference.cache
+D:\Programist\C# Part II\HomeWorkMethods\_13MultiTaskProgram\obj\Debug\_13MultiTaskProgram.exe
+D:\Programist\C# Part II\HomeWorkMethods\_13MultiTaskProgram\obj\Debug\_13MultiTaskProgram.pdb

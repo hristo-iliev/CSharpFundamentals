@@ -1,0 +1,9 @@
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_06MovingLetters\bin\Debug\_06MovingLetters.exe.config
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_06MovingLetters\bin\Debug\_06MovingLetters.exe
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_06MovingLetters\bin\Debug\_06MovingLetters.pdb
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_06MovingLetters\obj\Debug\_06MovingLetters.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_06MovingLetters\obj\Debug\_06MovingLetters.exe
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_06MovingLetters\obj\Debug\_06MovingLetters.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\ExamPreparation\_06MovingLetters\bin\Debug\_06MovingLetters.exe.config
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\ExamPreparation\_06MovingLetters\obj\Debug\_06MovingLetters.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\ExamPreparation\_06MovingLetters\obj\Debug\_06MovingLetters.pdb

@@ -1,0 +1,12 @@
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_12ParsingURLAddress\bin\Debug\_12ParsingURLAddress.exe.config
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_12ParsingURLAddress\bin\Debug\_12ParsingURLAddress.exe
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_12ParsingURLAddress\bin\Debug\_12ParsingURLAddress.pdb
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_12ParsingURLAddress\obj\Debug\_12ParsingURLAddress.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_12ParsingURLAddress\obj\Debug\_12ParsingURLAddress.exe
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_12ParsingURLAddress\obj\Debug\_12ParsingURLAddress.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_12ParsingURLAddress\bin\Debug\_12ParsingURLAddress.exe.config
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_12ParsingURLAddress\obj\Debug\_12ParsingURLAddress.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_12ParsingURLAddress\obj\Debug\_12ParsingURLAddress.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_12ParsingURLAddress\bin\Debug\_12ParsingURLAddress.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_12ParsingURLAddress\bin\Debug\_12ParsingURLAddress.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_12ParsingURLAddress\obj\Debug\_12ParsingURLAddress.csprojResolveAssemblyReference.cache

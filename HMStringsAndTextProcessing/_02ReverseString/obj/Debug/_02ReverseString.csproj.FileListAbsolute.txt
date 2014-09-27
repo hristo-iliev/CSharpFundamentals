@@ -1,0 +1,12 @@
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_02ReverseString\bin\Debug\_02ReverseString.exe.config
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_02ReverseString\bin\Debug\_02ReverseString.exe
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_02ReverseString\bin\Debug\_02ReverseString.pdb
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_02ReverseString\obj\Debug\_02ReverseString.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_02ReverseString\obj\Debug\_02ReverseString.exe
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_02ReverseString\obj\Debug\_02ReverseString.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_02ReverseString\bin\Debug\_02ReverseString.exe.config
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_02ReverseString\obj\Debug\_02ReverseString.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_02ReverseString\obj\Debug\_02ReverseString.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_02ReverseString\bin\Debug\_02ReverseString.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_02ReverseString\bin\Debug\_02ReverseString.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_02ReverseString\obj\Debug\_02ReverseString.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+D:\ПРОГРАМИСТ\C# Part II\MobilePhoneDevice\Task12TestingCallHistory\bin\Debug\Task12TestingCallHistory.exe.config
+D:\ПРОГРАМИСТ\C# Part II\MobilePhoneDevice\Task12TestingCallHistory\bin\Debug\Task12TestingCallHistory.exe
+D:\ПРОГРАМИСТ\C# Part II\MobilePhoneDevice\Task12TestingCallHistory\bin\Debug\Task12TestingCallHistory.pdb
+D:\ПРОГРАМИСТ\C# Part II\MobilePhoneDevice\Task12TestingCallHistory\bin\Debug\MobilePhoneDevice.exe
+D:\ПРОГРАМИСТ\C# Part II\MobilePhoneDevice\Task12TestingCallHistory\bin\Debug\MobilePhoneDevice.pdb
+D:\ПРОГРАМИСТ\C# Part II\MobilePhoneDevice\Task12TestingCallHistory\obj\Debug\Task12TestingCallHistory.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\C# Part II\MobilePhoneDevice\Task12TestingCallHistory\obj\Debug\Task12TestingCallHistory.exe
+D:\ПРОГРАМИСТ\C# Part II\MobilePhoneDevice\Task12TestingCallHistory\obj\Debug\Task12TestingCallHistory.pdb

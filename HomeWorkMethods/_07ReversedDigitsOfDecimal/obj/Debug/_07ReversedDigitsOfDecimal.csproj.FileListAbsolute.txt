@@ -1,0 +1,9 @@
+D:\Programist\C# Part II\HomeWorkMethods\_07ReversedDigitsOfDecimal\bin\Debug\_07ReversedDigitsOfDecimal.exe.config
+D:\Programist\C# Part II\HomeWorkMethods\_07ReversedDigitsOfDecimal\bin\Debug\_07ReversedDigitsOfDecimal.exe
+D:\Programist\C# Part II\HomeWorkMethods\_07ReversedDigitsOfDecimal\bin\Debug\_07ReversedDigitsOfDecimal.pdb
+D:\Programist\C# Part II\HomeWorkMethods\_07ReversedDigitsOfDecimal\obj\Debug\_07ReversedDigitsOfDecimal.csprojResolveAssemblyReference.cache
+D:\Programist\C# Part II\HomeWorkMethods\_07ReversedDigitsOfDecimal\obj\Debug\_07ReversedDigitsOfDecimal.exe
+D:\Programist\C# Part II\HomeWorkMethods\_07ReversedDigitsOfDecimal\obj\Debug\_07ReversedDigitsOfDecimal.pdb
+D:\ПРОГРАМИСТ\C# Part II\HomeWorkMethods\_07ReversedDigitsOfDecimal\bin\Debug\_07ReversedDigitsOfDecimal.exe.config
+D:\ПРОГРАМИСТ\C# Part II\HomeWorkMethods\_07ReversedDigitsOfDecimal\obj\Debug\_07ReversedDigitsOfDecimal.exe
+D:\ПРОГРАМИСТ\C# Part II\HomeWorkMethods\_07ReversedDigitsOfDecimal\obj\Debug\_07ReversedDigitsOfDecimal.pdb

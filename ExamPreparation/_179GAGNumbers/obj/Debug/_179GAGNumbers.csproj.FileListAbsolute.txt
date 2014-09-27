@@ -1,0 +1,9 @@
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_179GAGNumbers\bin\Debug\_179GAGNumbers.exe.config
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_179GAGNumbers\bin\Debug\_179GAGNumbers.exe
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_179GAGNumbers\bin\Debug\_179GAGNumbers.pdb
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_179GAGNumbers\obj\Debug\_179GAGNumbers.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_179GAGNumbers\obj\Debug\_179GAGNumbers.exe
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_179GAGNumbers\obj\Debug\_179GAGNumbers.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\ExamPreparation\_179GAGNumbers\bin\Debug\_179GAGNumbers.exe.config
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\ExamPreparation\_179GAGNumbers\obj\Debug\_179GAGNumbers.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\ExamPreparation\_179GAGNumbers\obj\Debug\_179GAGNumbers.pdb

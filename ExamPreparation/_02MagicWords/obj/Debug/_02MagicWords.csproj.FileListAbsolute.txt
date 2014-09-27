@@ -1,0 +1,9 @@
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_02MagicWords\bin\Debug\_02MagicWords.exe.config
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_02MagicWords\bin\Debug\_02MagicWords.exe
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_02MagicWords\bin\Debug\_02MagicWords.pdb
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_02MagicWords\obj\Debug\_02MagicWords.exe
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_02MagicWords\obj\Debug\_02MagicWords.pdb
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_02MagicWords\obj\Debug\_02MagicWords.csprojResolveAssemblyReference.cache
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\ExamPreparation\_02MagicWords\bin\Debug\_02MagicWords.exe.config
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\ExamPreparation\_02MagicWords\obj\Debug\_02MagicWords.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\ExamPreparation\_02MagicWords\obj\Debug\_02MagicWords.pdb

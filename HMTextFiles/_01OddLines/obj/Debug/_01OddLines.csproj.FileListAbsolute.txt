@@ -1,0 +1,9 @@
+D:\ПРОГРАМИСТ\C# Part II\HMTextFiles\_01OddLines\bin\Debug\_01OddLines.exe.config
+D:\ПРОГРАМИСТ\C# Part II\HMTextFiles\_01OddLines\bin\Debug\_01OddLines.exe
+D:\ПРОГРАМИСТ\C# Part II\HMTextFiles\_01OddLines\bin\Debug\_01OddLines.pdb
+D:\ПРОГРАМИСТ\C# Part II\HMTextFiles\_01OddLines\obj\Debug\_01OddLines.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\C# Part II\HMTextFiles\_01OddLines\obj\Debug\_01OddLines.exe
+D:\ПРОГРАМИСТ\C# Part II\HMTextFiles\_01OddLines\obj\Debug\_01OddLines.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMTextFiles\_01OddLines\bin\Debug\_01OddLines.exe.config
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMTextFiles\_01OddLines\obj\Debug\_01OddLines.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMTextFiles\_01OddLines\obj\Debug\_01OddLines.pdb

@@ -1,0 +1,12 @@
+D:\Programist\C# Part II\HomeWorkIITheMatrix\_07LargestAreaOfEqualNeighborElements\bin\Debug\_07LargestAreaOfEqualNeighborElements.exe.config
+D:\Programist\C# Part II\HomeWorkIITheMatrix\_07LargestAreaOfEqualNeighborElements\bin\Debug\_07LargestAreaOfEqualNeighborElements.exe
+D:\Programist\C# Part II\HomeWorkIITheMatrix\_07LargestAreaOfEqualNeighborElements\bin\Debug\_07LargestAreaOfEqualNeighborElements.pdb
+D:\Programist\C# Part II\HomeWorkIITheMatrix\_07LargestAreaOfEqualNeighborElements\obj\Debug\_07LargestAreaOfEqualNeighborElements.csprojResolveAssemblyReference.cache
+D:\Programist\C# Part II\HomeWorkIITheMatrix\_07LargestAreaOfEqualNeighborElements\obj\Debug\_07LargestAreaOfEqualNeighborElements.exe
+D:\Programist\C# Part II\HomeWorkIITheMatrix\_07LargestAreaOfEqualNeighborElements\obj\Debug\_07LargestAreaOfEqualNeighborElements.pdb
+D:\ПРОГРАМИСТ\C# Part II\HomeWorkIITheMatrix\_07LargestAreaOfEqualNeighborElements\bin\Debug\_07LargestAreaOfEqualNeighborElements.exe.config
+D:\ПРОГРАМИСТ\C# Part II\HomeWorkIITheMatrix\_07LargestAreaOfEqualNeighborElements\obj\Debug\_07LargestAreaOfEqualNeighborElements.exe
+D:\ПРОГРАМИСТ\C# Part II\HomeWorkIITheMatrix\_07LargestAreaOfEqualNeighborElements\obj\Debug\_07LargestAreaOfEqualNeighborElements.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HomeWorkIITheMatrix\_07LargestAreaOfEqualNeighborElements\bin\Debug\_07LargestAreaOfEqualNeighborElements.exe.config
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HomeWorkIITheMatrix\_07LargestAreaOfEqualNeighborElements\obj\Debug\_07LargestAreaOfEqualNeighborElements.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HomeWorkIITheMatrix\_07LargestAreaOfEqualNeighborElements\obj\Debug\_07LargestAreaOfEqualNeighborElements.pdb

@@ -1,0 +1,9 @@
+D:\Programist\C# Part II\HomeWorkIITheMatrix\_04BinarySearch\bin\Debug\_04BinarySearch.exe.config
+D:\Programist\C# Part II\HomeWorkIITheMatrix\_04BinarySearch\bin\Debug\_04BinarySearch.exe
+D:\Programist\C# Part II\HomeWorkIITheMatrix\_04BinarySearch\bin\Debug\_04BinarySearch.pdb
+D:\Programist\C# Part II\HomeWorkIITheMatrix\_04BinarySearch\obj\Debug\_04BinarySearch.exe
+D:\Programist\C# Part II\HomeWorkIITheMatrix\_04BinarySearch\obj\Debug\_04BinarySearch.pdb
+D:\Programist\C# Part II\HomeWorkIITheMatrix\_04BinarySearch\obj\Debug\_04BinarySearch.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\C# Part II\HomeWorkIITheMatrix\_04BinarySearch\bin\Debug\_04BinarySearch.exe.config
+D:\ПРОГРАМИСТ\C# Part II\HomeWorkIITheMatrix\_04BinarySearch\obj\Debug\_04BinarySearch.exe
+D:\ПРОГРАМИСТ\C# Part II\HomeWorkIITheMatrix\_04BinarySearch\obj\Debug\_04BinarySearch.pdb

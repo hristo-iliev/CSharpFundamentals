@@ -1,0 +1,10 @@
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_14Dictionary\bin\Debug\_14Dictionary.exe.config
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_14Dictionary\bin\Debug\_14Dictionary.exe
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_14Dictionary\bin\Debug\_14Dictionary.pdb
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_14Dictionary\obj\Debug\_14Dictionary.exe
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_14Dictionary\obj\Debug\_14Dictionary.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_14Dictionary\bin\Debug\_14Dictionary.exe.config
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_14Dictionary\obj\Debug\_14Dictionary.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_14Dictionary\obj\Debug\_14Dictionary.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_14Dictionary\bin\Debug\_14Dictionary.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_14Dictionary\bin\Debug\_14Dictionary.pdb

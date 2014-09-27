@@ -1,0 +1,9 @@
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_11ConsoleJustification\bin\Debug\_11ConsoleJustification.exe.config
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_11ConsoleJustification\bin\Debug\_11ConsoleJustification.exe
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_11ConsoleJustification\bin\Debug\_11ConsoleJustification.pdb
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_11ConsoleJustification\obj\Debug\_11ConsoleJustification.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_11ConsoleJustification\obj\Debug\_11ConsoleJustification.exe
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_11ConsoleJustification\obj\Debug\_11ConsoleJustification.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\ExamPreparation\_11ConsoleJustification\bin\Debug\_11ConsoleJustification.exe.config
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\ExamPreparation\_11ConsoleJustification\obj\Debug\_11ConsoleJustification.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\ExamPreparation\_11ConsoleJustification\obj\Debug\_11ConsoleJustification.pdb

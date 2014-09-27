@@ -1,0 +1,6 @@
+D:\Programist\C# Part II\HomeWorkMethods\_05BiggerThanItsTwoNeighbors\bin\Debug\_05BiggerThanItsTwoNeighbors.exe.config
+D:\Programist\C# Part II\HomeWorkMethods\_05BiggerThanItsTwoNeighbors\bin\Debug\_05BiggerThanItsTwoNeighbors.exe
+D:\Programist\C# Part II\HomeWorkMethods\_05BiggerThanItsTwoNeighbors\bin\Debug\_05BiggerThanItsTwoNeighbors.pdb
+D:\Programist\C# Part II\HomeWorkMethods\_05BiggerThanItsTwoNeighbors\obj\Debug\_05BiggerThanItsTwoNeighbors.csprojResolveAssemblyReference.cache
+D:\Programist\C# Part II\HomeWorkMethods\_05BiggerThanItsTwoNeighbors\obj\Debug\_05BiggerThanItsTwoNeighbors.exe
+D:\Programist\C# Part II\HomeWorkMethods\_05BiggerThanItsTwoNeighbors\obj\Debug\_05BiggerThanItsTwoNeighbors.pdb

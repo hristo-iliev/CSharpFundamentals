@@ -1,0 +1,12 @@
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_20Palindromes\bin\Debug\_20Palindromes.exe.config
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_20Palindromes\bin\Debug\_20Palindromes.exe
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_20Palindromes\bin\Debug\_20Palindromes.pdb
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_20Palindromes\obj\Debug\_20Palindromes.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_20Palindromes\obj\Debug\_20Palindromes.exe
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_20Palindromes\obj\Debug\_20Palindromes.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_20Palindromes\bin\Debug\_20Palindromes.exe.config
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_20Palindromes\obj\Debug\_20Palindromes.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_20Palindromes\obj\Debug\_20Palindromes.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_20Palindromes\bin\Debug\_20Palindromes.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_20Palindromes\bin\Debug\_20Palindromes.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_20Palindromes\obj\Debug\_20Palindromes.csprojResolveAssemblyReference.cache

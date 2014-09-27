@@ -1,0 +1,8 @@
+D:\ПРОГРАМИСТ\C# Part II\HMClassObject\_02TenRandomValues\bin\Debug\_02TenRandomValues.exe.config
+D:\ПРОГРАМИСТ\C# Part II\HMClassObject\_02TenRandomValues\bin\Debug\_02TenRandomValues.exe
+D:\ПРОГРАМИСТ\C# Part II\HMClassObject\_02TenRandomValues\bin\Debug\_02TenRandomValues.pdb
+D:\ПРОГРАМИСТ\C# Part II\HMClassObject\_02TenRandomValues\obj\Debug\_02TenRandomValues.exe
+D:\ПРОГРАМИСТ\C# Part II\HMClassObject\_02TenRandomValues\obj\Debug\_02TenRandomValues.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMClassObject\_02TenRandomValues\bin\Debug\_02TenRandomValues.exe.config
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMClassObject\_02TenRandomValues\obj\Debug\_02TenRandomValues.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMClassObject\_02TenRandomValues\obj\Debug\_02TenRandomValues.pdb

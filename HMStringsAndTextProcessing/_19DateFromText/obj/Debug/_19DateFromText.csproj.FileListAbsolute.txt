@@ -1,0 +1,10 @@
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_19DateFromText\bin\Debug\_19DateFromText.exe.config
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_19DateFromText\bin\Debug\_19DateFromText.exe
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_19DateFromText\bin\Debug\_19DateFromText.pdb
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_19DateFromText\obj\Debug\_19DateFromText.exe
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_19DateFromText\obj\Debug\_19DateFromText.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_19DateFromText\bin\Debug\_19DateFromText.exe.config
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_19DateFromText\obj\Debug\_19DateFromText.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_19DateFromText\obj\Debug\_19DateFromText.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_19DateFromText\bin\Debug\_19DateFromText.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_19DateFromText\bin\Debug\_19DateFromText.pdb

@@ -1,0 +1,9 @@
+D:\ПРОГРАМИСТ\C# Part II\HMTextFiles\_12DeletingWordsFromATextFile\bin\Debug\_12DeletingWordsFromATextFile.exe.config
+D:\ПРОГРАМИСТ\C# Part II\HMTextFiles\_12DeletingWordsFromATextFile\bin\Debug\_12DeletingWordsFromATextFile.exe
+D:\ПРОГРАМИСТ\C# Part II\HMTextFiles\_12DeletingWordsFromATextFile\bin\Debug\_12DeletingWordsFromATextFile.pdb
+D:\ПРОГРАМИСТ\C# Part II\HMTextFiles\_12DeletingWordsFromATextFile\obj\Debug\_12DeletingWordsFromATextFile.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\C# Part II\HMTextFiles\_12DeletingWordsFromATextFile\obj\Debug\_12DeletingWordsFromATextFile.exe
+D:\ПРОГРАМИСТ\C# Part II\HMTextFiles\_12DeletingWordsFromATextFile\obj\Debug\_12DeletingWordsFromATextFile.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMTextFiles\_12DeletingWordsFromATextFile\bin\Debug\_12DeletingWordsFromATextFile.exe.config
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMTextFiles\_12DeletingWordsFromATextFile\obj\Debug\_12DeletingWordsFromATextFile.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMTextFiles\_12DeletingWordsFromATextFile\obj\Debug\_12DeletingWordsFromATextFile.pdb

@@ -1,0 +1,9 @@
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_01MultiverseCommunication\bin\Debug\_01MultiverseCommunication.exe.config
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_01MultiverseCommunication\bin\Debug\_01MultiverseCommunication.exe
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_01MultiverseCommunication\bin\Debug\_01MultiverseCommunication.pdb
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_01MultiverseCommunication\obj\Debug\_01MultiverseCommunication.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_01MultiverseCommunication\obj\Debug\_01MultiverseCommunication.exe
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_01MultiverseCommunication\obj\Debug\_01MultiverseCommunication.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\ExamPreparation\_01MultiverseCommunication\bin\Debug\_01MultiverseCommunication.exe.config
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\ExamPreparation\_01MultiverseCommunication\obj\Debug\_01MultiverseCommunication.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\ExamPreparation\_01MultiverseCommunication\obj\Debug\_01MultiverseCommunication.pdb

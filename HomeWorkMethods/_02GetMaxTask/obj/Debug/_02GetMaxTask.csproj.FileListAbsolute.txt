@@ -1,0 +1,8 @@
+D:\Programist\C# Part II\HomeWorkMethods\_02GetMaxTask\bin\Debug\_02GetMaxTask.exe.config
+D:\Programist\C# Part II\HomeWorkMethods\_02GetMaxTask\bin\Debug\_02GetMaxTask.exe
+D:\Programist\C# Part II\HomeWorkMethods\_02GetMaxTask\bin\Debug\_02GetMaxTask.pdb
+D:\Programist\C# Part II\HomeWorkMethods\_02GetMaxTask\obj\Debug\_02GetMaxTask.exe
+D:\Programist\C# Part II\HomeWorkMethods\_02GetMaxTask\obj\Debug\_02GetMaxTask.pdb
+D:\ПРОГРАМИСТ\C# Part II\HomeWorkMethods\_02GetMaxTask\bin\Debug\_02GetMaxTask.exe.config
+D:\ПРОГРАМИСТ\C# Part II\HomeWorkMethods\_02GetMaxTask\obj\Debug\_02GetMaxTask.exe
+D:\ПРОГРАМИСТ\C# Part II\HomeWorkMethods\_02GetMaxTask\obj\Debug\_02GetMaxTask.pdb

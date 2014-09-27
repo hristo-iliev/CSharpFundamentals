@@ -1,0 +1,9 @@
+D:\ПРОГРАМИСТ\C# Part II\HMClassObject\_07Calculator\bin\Debug\_07Calculator.exe.config
+D:\ПРОГРАМИСТ\C# Part II\HMClassObject\_07Calculator\bin\Debug\_07Calculator.exe
+D:\ПРОГРАМИСТ\C# Part II\HMClassObject\_07Calculator\bin\Debug\_07Calculator.pdb
+D:\ПРОГРАМИСТ\C# Part II\HMClassObject\_07Calculator\obj\Debug\_07Calculator.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\C# Part II\HMClassObject\_07Calculator\obj\Debug\_07Calculator.exe
+D:\ПРОГРАМИСТ\C# Part II\HMClassObject\_07Calculator\obj\Debug\_07Calculator.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMClassObject\_07Calculator\bin\Debug\_07Calculator.exe.config
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMClassObject\_07Calculator\obj\Debug\_07Calculator.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMClassObject\_07Calculator\obj\Debug\_07Calculator.pdb

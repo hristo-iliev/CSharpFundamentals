@@ -1,0 +1,8 @@
+D:\ПРОГРАМИСТ\C# Part II\HMTextFiles\_08RaplacingWholeWords\bin\Debug\_08RaplacingWholeWords.exe.config
+D:\ПРОГРАМИСТ\C# Part II\HMTextFiles\_08RaplacingWholeWords\bin\Debug\_08RaplacingWholeWords.exe
+D:\ПРОГРАМИСТ\C# Part II\HMTextFiles\_08RaplacingWholeWords\bin\Debug\_08RaplacingWholeWords.pdb
+D:\ПРОГРАМИСТ\C# Part II\HMTextFiles\_08RaplacingWholeWords\obj\Debug\_08RaplacingWholeWords.exe
+D:\ПРОГРАМИСТ\C# Part II\HMTextFiles\_08RaplacingWholeWords\obj\Debug\_08RaplacingWholeWords.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMTextFiles\_08RaplacingWholeWords\bin\Debug\_08RaplacingWholeWords.exe.config
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMTextFiles\_08RaplacingWholeWords\obj\Debug\_08RaplacingWholeWords.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMTextFiles\_08RaplacingWholeWords\obj\Debug\_08RaplacingWholeWords.pdb

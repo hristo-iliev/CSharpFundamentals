@@ -1,0 +1,9 @@
+D:\Programist\C# Part II\HomeWorkIITheMatrix\_03SequencesInTheMatrix\bin\Debug\_03SequencesInTheMatrix.exe.config
+D:\Programist\C# Part II\HomeWorkIITheMatrix\_03SequencesInTheMatrix\bin\Debug\_03SequencesInTheMatrix.exe
+D:\Programist\C# Part II\HomeWorkIITheMatrix\_03SequencesInTheMatrix\bin\Debug\_03SequencesInTheMatrix.pdb
+D:\Programist\C# Part II\HomeWorkIITheMatrix\_03SequencesInTheMatrix\obj\Debug\_03SequencesInTheMatrix.csprojResolveAssemblyReference.cache
+D:\Programist\C# Part II\HomeWorkIITheMatrix\_03SequencesInTheMatrix\obj\Debug\_03SequencesInTheMatrix.exe
+D:\Programist\C# Part II\HomeWorkIITheMatrix\_03SequencesInTheMatrix\obj\Debug\_03SequencesInTheMatrix.pdb
+D:\ПРОГРАМИСТ\C# Part II\HomeWorkIITheMatrix\_03SequencesInTheMatrix\bin\Debug\_03SequencesInTheMatrix.exe.config
+D:\ПРОГРАМИСТ\C# Part II\HomeWorkIITheMatrix\_03SequencesInTheMatrix\obj\Debug\_03SequencesInTheMatrix.exe
+D:\ПРОГРАМИСТ\C# Part II\HomeWorkIITheMatrix\_03SequencesInTheMatrix\obj\Debug\_03SequencesInTheMatrix.pdb

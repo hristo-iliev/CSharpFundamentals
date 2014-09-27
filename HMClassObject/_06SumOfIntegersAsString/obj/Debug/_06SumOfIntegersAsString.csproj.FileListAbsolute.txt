@@ -1,0 +1,8 @@
+D:\ПРОГРАМИСТ\C# Part II\HMClassObject\_06SumOfIntegersAsString\bin\Debug\_06SumOfIntegersAsString.exe.config
+D:\ПРОГРАМИСТ\C# Part II\HMClassObject\_06SumOfIntegersAsString\bin\Debug\_06SumOfIntegersAsString.exe
+D:\ПРОГРАМИСТ\C# Part II\HMClassObject\_06SumOfIntegersAsString\bin\Debug\_06SumOfIntegersAsString.pdb
+D:\ПРОГРАМИСТ\C# Part II\HMClassObject\_06SumOfIntegersAsString\obj\Debug\_06SumOfIntegersAsString.exe
+D:\ПРОГРАМИСТ\C# Part II\HMClassObject\_06SumOfIntegersAsString\obj\Debug\_06SumOfIntegersAsString.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMClassObject\_06SumOfIntegersAsString\bin\Debug\_06SumOfIntegersAsString.exe.config
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMClassObject\_06SumOfIntegersAsString\obj\Debug\_06SumOfIntegersAsString.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMClassObject\_06SumOfIntegersAsString\obj\Debug\_06SumOfIntegersAsString.pdb

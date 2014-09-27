@@ -1,0 +1,6 @@
+D:\Programist\C# Part II\HomeWorkMethods\_09FindBiggestElementAndSortArray\bin\Debug\_09FindBiggestElementAndSortArray.exe.config
+D:\Programist\C# Part II\HomeWorkMethods\_09FindBiggestElementAndSortArray\bin\Debug\_09FindBiggestElementAndSortArray.exe
+D:\Programist\C# Part II\HomeWorkMethods\_09FindBiggestElementAndSortArray\bin\Debug\_09FindBiggestElementAndSortArray.pdb
+D:\Programist\C# Part II\HomeWorkMethods\_09FindBiggestElementAndSortArray\obj\Debug\_09FindBiggestElementAndSortArray.csprojResolveAssemblyReference.cache
+D:\Programist\C# Part II\HomeWorkMethods\_09FindBiggestElementAndSortArray\obj\Debug\_09FindBiggestElementAndSortArray.exe
+D:\Programist\C# Part II\HomeWorkMethods\_09FindBiggestElementAndSortArray\obj\Debug\_09FindBiggestElementAndSortArray.pdb

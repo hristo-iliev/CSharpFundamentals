@@ -1,0 +1,12 @@
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_21LettersInString\bin\Debug\_21LettersInString.exe.config
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_21LettersInString\bin\Debug\_21LettersInString.exe
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_21LettersInString\bin\Debug\_21LettersInString.pdb
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_21LettersInString\obj\Debug\_21LettersInString.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_21LettersInString\obj\Debug\_21LettersInString.exe
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_21LettersInString\obj\Debug\_21LettersInString.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_21LettersInString\bin\Debug\_21LettersInString.exe.config
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_21LettersInString\obj\Debug\_21LettersInString.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_21LettersInString\obj\Debug\_21LettersInString.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_21LettersInString\bin\Debug\_21LettersInString.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_21LettersInString\bin\Debug\_21LettersInString.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_21LettersInString\obj\Debug\_21LettersInString.csprojResolveAssemblyReference.cache

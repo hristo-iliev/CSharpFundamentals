@@ -1,0 +1,5 @@
+D:\Programist\C# Part II\HomeWorkMethods\_06FirstElementBiggerThanItsTwoNeighbors\bin\Debug\_06FirstElementBiggerThanItsTwoNeighbors.exe.config
+D:\Programist\C# Part II\HomeWorkMethods\_06FirstElementBiggerThanItsTwoNeighbors\bin\Debug\_06FirstElementBiggerThanItsTwoNeighbors.exe
+D:\Programist\C# Part II\HomeWorkMethods\_06FirstElementBiggerThanItsTwoNeighbors\bin\Debug\_06FirstElementBiggerThanItsTwoNeighbors.pdb
+D:\Programist\C# Part II\HomeWorkMethods\_06FirstElementBiggerThanItsTwoNeighbors\obj\Debug\_06FirstElementBiggerThanItsTwoNeighbors.exe
+D:\Programist\C# Part II\HomeWorkMethods\_06FirstElementBiggerThanItsTwoNeighbors\obj\Debug\_06FirstElementBiggerThanItsTwoNeighbors.pdb

@@ -1,0 +1,12 @@
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_16DistanceBetweenTwoDates\bin\Debug\_16DistanceBetweenTwoDates.exe.config
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_16DistanceBetweenTwoDates\obj\Debug\_16DistanceBetweenTwoDates.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_16DistanceBetweenTwoDates\bin\Debug\_16DistanceBetweenTwoDates.exe
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_16DistanceBetweenTwoDates\bin\Debug\_16DistanceBetweenTwoDates.pdb
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_16DistanceBetweenTwoDates\obj\Debug\_16DistanceBetweenTwoDates.exe
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_16DistanceBetweenTwoDates\obj\Debug\_16DistanceBetweenTwoDates.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_16DistanceBetweenTwoDates\bin\Debug\_16DistanceBetweenTwoDates.exe.config
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_16DistanceBetweenTwoDates\obj\Debug\_16DistanceBetweenTwoDates.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_16DistanceBetweenTwoDates\obj\Debug\_16DistanceBetweenTwoDates.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_16DistanceBetweenTwoDates\bin\Debug\_16DistanceBetweenTwoDates.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_16DistanceBetweenTwoDates\bin\Debug\_16DistanceBetweenTwoDates.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_16DistanceBetweenTwoDates\obj\Debug\_16DistanceBetweenTwoDates.csprojResolveAssemblyReference.cache

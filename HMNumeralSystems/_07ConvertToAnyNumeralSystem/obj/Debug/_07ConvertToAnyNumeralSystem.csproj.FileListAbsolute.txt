@@ -1,0 +1,15 @@
+D:\Programist\C# Part II\HMNumeralSystems\_07ConvertToAnyNumeralSystem\bin\Debug\_07ConvertToAnyNumeralSystem.exe.config
+D:\Programist\C# Part II\HMNumeralSystems\_07ConvertToAnyNumeralSystem\bin\Debug\_07ConvertToAnyNumeralSystem.exe
+D:\Programist\C# Part II\HMNumeralSystems\_07ConvertToAnyNumeralSystem\bin\Debug\_07ConvertToAnyNumeralSystem.pdb
+D:\Programist\C# Part II\HMNumeralSystems\_07ConvertToAnyNumeralSystem\obj\Debug\_07ConvertToAnyNumeralSystem.exe
+D:\Programist\C# Part II\HMNumeralSystems\_07ConvertToAnyNumeralSystem\obj\Debug\_07ConvertToAnyNumeralSystem.pdb
+D:\Programist\C# Part II\HMNumeralSystems\_07ConvertToAnyNumeralSystem\obj\Debug\_07ConvertToAnyNumeralSystem.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\C# Part II\HMNumeralSystems\_07ConvertToAnyNumeralSystem\bin\Debug\_07ConvertToAnyNumeralSystem.exe.config
+D:\ПРОГРАМИСТ\C# Part II\HMNumeralSystems\_07ConvertToAnyNumeralSystem\obj\Debug\_07ConvertToAnyNumeralSystem.exe
+D:\ПРОГРАМИСТ\C# Part II\HMNumeralSystems\_07ConvertToAnyNumeralSystem\obj\Debug\_07ConvertToAnyNumeralSystem.pdb
+D:\ПРОГРАМИСТ\C# Part II\HMNumeralSystems\_07ConvertToAnyNumeralSystem\bin\Debug\_07ConvertToAnyNumeralSystem.exe
+D:\ПРОГРАМИСТ\C# Part II\HMNumeralSystems\_07ConvertToAnyNumeralSystem\bin\Debug\_07ConvertToAnyNumeralSystem.pdb
+D:\ПРОГРАМИСТ\C# Part II\HMNumeralSystems\_07ConvertToAnyNumeralSystem\obj\Debug\_07ConvertToAnyNumeralSystem.csprojResolveAssemblyReference.cache
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMNumeralSystems\_07ConvertToAnyNumeralSystem\bin\Debug\_07ConvertToAnyNumeralSystem.exe.config
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMNumeralSystems\_07ConvertToAnyNumeralSystem\obj\Debug\_07ConvertToAnyNumeralSystem.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMNumeralSystems\_07ConvertToAnyNumeralSystem\obj\Debug\_07ConvertToAnyNumeralSystem.pdb

@@ -1,0 +1,9 @@
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_12OneTaskIsNotEnough\bin\Debug\_12OneTaskIsNotEnough.exe.config
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_12OneTaskIsNotEnough\bin\Debug\_12OneTaskIsNotEnough.exe
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_12OneTaskIsNotEnough\bin\Debug\_12OneTaskIsNotEnough.pdb
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_12OneTaskIsNotEnough\obj\Debug\_12OneTaskIsNotEnough.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_12OneTaskIsNotEnough\obj\Debug\_12OneTaskIsNotEnough.exe
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_12OneTaskIsNotEnough\obj\Debug\_12OneTaskIsNotEnough.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\ExamPreparation\_12OneTaskIsNotEnough\bin\Debug\_12OneTaskIsNotEnough.exe.config
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\ExamPreparation\_12OneTaskIsNotEnough\obj\Debug\_12OneTaskIsNotEnough.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\ExamPreparation\_12OneTaskIsNotEnough\obj\Debug\_12OneTaskIsNotEnough.pdb

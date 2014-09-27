@@ -1,0 +1,8 @@
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_15CSharp Brackets\bin\Debug\_15CSharp Brackets.exe.config
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_15CSharp Brackets\bin\Debug\_15CSharp Brackets.exe
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_15CSharp Brackets\bin\Debug\_15CSharp Brackets.pdb
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_15CSharp Brackets\obj\Debug\_15CSharp Brackets.exe
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_15CSharp Brackets\obj\Debug\_15CSharp Brackets.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\ExamPreparation\_15CSharp Brackets\bin\Debug\_15CSharp Brackets.exe.config
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\ExamPreparation\_15CSharp Brackets\obj\Debug\_15CSharp Brackets.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\ExamPreparation\_15CSharp Brackets\obj\Debug\_15CSharp Brackets.pdb

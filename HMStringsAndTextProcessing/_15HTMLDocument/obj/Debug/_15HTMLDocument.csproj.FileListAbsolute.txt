@@ -1,0 +1,12 @@
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_15HTMLDocument\bin\Debug\_15HTMLDocument.exe.config
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_15HTMLDocument\bin\Debug\_15HTMLDocument.exe
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_15HTMLDocument\bin\Debug\_15HTMLDocument.pdb
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_15HTMLDocument\obj\Debug\_15HTMLDocument.exe
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_15HTMLDocument\obj\Debug\_15HTMLDocument.pdb
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_15HTMLDocument\obj\Debug\_15HTMLDocument.csprojResolveAssemblyReference.cache
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_15HTMLDocument\bin\Debug\_15HTMLDocument.exe.config
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_15HTMLDocument\obj\Debug\_15HTMLDocument.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_15HTMLDocument\obj\Debug\_15HTMLDocument.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_15HTMLDocument\bin\Debug\_15HTMLDocument.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_15HTMLDocument\bin\Debug\_15HTMLDocument.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_15HTMLDocument\obj\Debug\_15HTMLDocument.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_09GreedyDwarf\bin\Debug\_09GreedyDwarf.exe.config
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_09GreedyDwarf\bin\Debug\_09GreedyDwarf.exe
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_09GreedyDwarf\bin\Debug\_09GreedyDwarf.pdb
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_09GreedyDwarf\obj\Debug\_09GreedyDwarf.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_09GreedyDwarf\obj\Debug\_09GreedyDwarf.exe
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_09GreedyDwarf\obj\Debug\_09GreedyDwarf.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\ExamPreparation\_09GreedyDwarf\bin\Debug\_09GreedyDwarf.exe.config
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\ExamPreparation\_09GreedyDwarf\obj\Debug\_09GreedyDwarf.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\ExamPreparation\_09GreedyDwarf\obj\Debug\_09GreedyDwarf.pdb

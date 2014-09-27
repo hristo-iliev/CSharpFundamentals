@@ -1,0 +1,12 @@
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_05ChangeTheWordsInGivenRegion\bin\Debug\_05ChangeTheWordsInGivenRegion.exe.config
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_05ChangeTheWordsInGivenRegion\bin\Debug\_05ChangeTheWordsInGivenRegion.exe
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_05ChangeTheWordsInGivenRegion\bin\Debug\_05ChangeTheWordsInGivenRegion.pdb
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_05ChangeTheWordsInGivenRegion\obj\Debug\_05ChangeTheWordsInGivenRegion.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_05ChangeTheWordsInGivenRegion\obj\Debug\_05ChangeTheWordsInGivenRegion.exe
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_05ChangeTheWordsInGivenRegion\obj\Debug\_05ChangeTheWordsInGivenRegion.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_05ChangeTheWordsInGivenRegion\bin\Debug\_05ChangeTheWordsInGivenRegion.exe.config
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_05ChangeTheWordsInGivenRegion\obj\Debug\_05ChangeTheWordsInGivenRegion.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_05ChangeTheWordsInGivenRegion\obj\Debug\_05ChangeTheWordsInGivenRegion.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_05ChangeTheWordsInGivenRegion\bin\Debug\_05ChangeTheWordsInGivenRegion.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_05ChangeTheWordsInGivenRegion\bin\Debug\_05ChangeTheWordsInGivenRegion.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_05ChangeTheWordsInGivenRegion\obj\Debug\_05ChangeTheWordsInGivenRegion.csprojResolveAssemblyReference.cache

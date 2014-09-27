@@ -1,0 +1,9 @@
+D:\ПРОГРАМИСТ\C# Part II\Euclidian3DSpace\Euclidian3DSpace\bin\Debug\Euclidian3DSpace.exe.config
+D:\ПРОГРАМИСТ\C# Part II\Euclidian3DSpace\Euclidian3DSpace\bin\Debug\Euclidian3DSpace.exe
+D:\ПРОГРАМИСТ\C# Part II\Euclidian3DSpace\Euclidian3DSpace\bin\Debug\Euclidian3DSpace.pdb
+D:\ПРОГРАМИСТ\C# Part II\Euclidian3DSpace\Euclidian3DSpace\obj\Debug\Euclidian3DSpace.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\C# Part II\Euclidian3DSpace\Euclidian3DSpace\obj\Debug\Euclidian3DSpace.exe
+D:\ПРОГРАМИСТ\C# Part II\Euclidian3DSpace\Euclidian3DSpace\obj\Debug\Euclidian3DSpace.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\Euclidian3DSpace\Euclidian3DSpace\bin\Debug\Euclidian3DSpace.exe.config
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\Euclidian3DSpace\Euclidian3DSpace\obj\Debug\Euclidian3DSpace.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\Euclidian3DSpace\Euclidian3DSpace\obj\Debug\Euclidian3DSpace.pdb

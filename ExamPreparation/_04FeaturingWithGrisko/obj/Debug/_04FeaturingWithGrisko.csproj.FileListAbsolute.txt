@@ -1,0 +1,9 @@
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_04FeaturingWithGrisko\bin\Debug\_04FeaturingWithGrisko.exe.config
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_04FeaturingWithGrisko\bin\Debug\_04FeaturingWithGrisko.exe
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_04FeaturingWithGrisko\bin\Debug\_04FeaturingWithGrisko.pdb
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_04FeaturingWithGrisko\obj\Debug\_04FeaturingWithGrisko.exe
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_04FeaturingWithGrisko\obj\Debug\_04FeaturingWithGrisko.pdb
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_04FeaturingWithGrisko\obj\Debug\_04FeaturingWithGrisko.csprojResolveAssemblyReference.cache
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\ExamPreparation\_04FeaturingWithGrisko\bin\Debug\_04FeaturingWithGrisko.exe.config
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\ExamPreparation\_04FeaturingWithGrisko\obj\Debug\_04FeaturingWithGrisko.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\ExamPreparation\_04FeaturingWithGrisko\obj\Debug\_04FeaturingWithGrisko.pdb

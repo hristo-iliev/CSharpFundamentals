@@ -1,0 +1,9 @@
+D:\Programist\C# Part II\HMNumeralSystems\_03DecimalToHexadecimal\bin\Debug\_03DecimalToHexadecimal.exe.config
+D:\Programist\C# Part II\HMNumeralSystems\_03DecimalToHexadecimal\bin\Debug\_03DecimalToHexadecimal.exe
+D:\Programist\C# Part II\HMNumeralSystems\_03DecimalToHexadecimal\bin\Debug\_03DecimalToHexadecimal.pdb
+D:\Programist\C# Part II\HMNumeralSystems\_03DecimalToHexadecimal\obj\Debug\_03DecimalToHexadecimal.csprojResolveAssemblyReference.cache
+D:\Programist\C# Part II\HMNumeralSystems\_03DecimalToHexadecimal\obj\Debug\_03DecimalToHexadecimal.exe
+D:\Programist\C# Part II\HMNumeralSystems\_03DecimalToHexadecimal\obj\Debug\_03DecimalToHexadecimal.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMNumeralSystems\_03DecimalToHexadecimal\bin\Debug\_03DecimalToHexadecimal.exe.config
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMNumeralSystems\_03DecimalToHexadecimal\obj\Debug\_03DecimalToHexadecimal.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMNumeralSystems\_03DecimalToHexadecimal\obj\Debug\_03DecimalToHexadecimal.pdb

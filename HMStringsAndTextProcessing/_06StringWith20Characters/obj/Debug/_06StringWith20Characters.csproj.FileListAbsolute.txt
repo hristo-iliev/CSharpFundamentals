@@ -1,0 +1,12 @@
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_06StringWith20Characters\bin\Debug\_06StringWith20Characters.exe.config
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_06StringWith20Characters\bin\Debug\_06StringWith20Characters.exe
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_06StringWith20Characters\bin\Debug\_06StringWith20Characters.pdb
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_06StringWith20Characters\obj\Debug\_06StringWith20Characters.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_06StringWith20Characters\obj\Debug\_06StringWith20Characters.exe
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_06StringWith20Characters\obj\Debug\_06StringWith20Characters.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_06StringWith20Characters\bin\Debug\_06StringWith20Characters.exe.config
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_06StringWith20Characters\obj\Debug\_06StringWith20Characters.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_06StringWith20Characters\obj\Debug\_06StringWith20Characters.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_06StringWith20Characters\bin\Debug\_06StringWith20Characters.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_06StringWith20Characters\bin\Debug\_06StringWith20Characters.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_06StringWith20Characters\obj\Debug\_06StringWith20Characters.csprojResolveAssemblyReference.cache

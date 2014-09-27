@@ -1,0 +1,12 @@
+D:\Programist\C# Part II\HomeWorkMethods\_10CalculatingFactorial\bin\Debug\_10CalculatingFactorial.exe.config
+D:\Programist\C# Part II\HomeWorkMethods\_10CalculatingFactorial\obj\Debug\_10CalculatingFactorial.csprojResolveAssemblyReference.cache
+D:\Programist\C# Part II\HomeWorkMethods\_10CalculatingFactorial\bin\Debug\_10CalculatingFactorial.exe
+D:\Programist\C# Part II\HomeWorkMethods\_10CalculatingFactorial\bin\Debug\_10CalculatingFactorial.pdb
+D:\Programist\C# Part II\HomeWorkMethods\_10CalculatingFactorial\obj\Debug\_10CalculatingFactorial.exe
+D:\Programist\C# Part II\HomeWorkMethods\_10CalculatingFactorial\obj\Debug\_10CalculatingFactorial.pdb
+D:\ПРОГРАМИСТ\C# Part II\HomeWorkMethods\_10CalculatingFactorial\bin\Debug\_10CalculatingFactorial.exe.config
+D:\ПРОГРАМИСТ\C# Part II\HomeWorkMethods\_10CalculatingFactorial\obj\Debug\_10CalculatingFactorial.exe
+D:\ПРОГРАМИСТ\C# Part II\HomeWorkMethods\_10CalculatingFactorial\obj\Debug\_10CalculatingFactorial.pdb
+D:\ПРОГРАМИСТ\C# Part II\HomeWorkMethods\_10CalculatingFactorial\bin\Debug\_10CalculatingFactorial.exe
+D:\ПРОГРАМИСТ\C# Part II\HomeWorkMethods\_10CalculatingFactorial\bin\Debug\_10CalculatingFactorial.pdb
+D:\ПРОГРАМИСТ\C# Part II\HomeWorkMethods\_10CalculatingFactorial\obj\Debug\_10CalculatingFactorial.csprojResolveAssemblyReference.cache

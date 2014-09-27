@@ -1,0 +1,12 @@
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_11NumberAsDecimalHexadecimalPercentScientific\bin\Debug\_11NumberAsDecimalHexadecimalPercentScientific.exe.config
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_11NumberAsDecimalHexadecimalPercentScientific\bin\Debug\_11NumberAsDecimalHexadecimalPercentScientific.exe
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_11NumberAsDecimalHexadecimalPercentScientific\bin\Debug\_11NumberAsDecimalHexadecimalPercentScientific.pdb
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_11NumberAsDecimalHexadecimalPercentScientific\obj\Debug\_11NumberAsDecimalHexadecimalPercentScientific.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_11NumberAsDecimalHexadecimalPercentScientific\obj\Debug\_11NumberAsDecimalHexadecimalPercentScientific.exe
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_11NumberAsDecimalHexadecimalPercentScientific\obj\Debug\_11NumberAsDecimalHexadecimalPercentScientific.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_11NumberAsDecimalHexadecimalPercentScientific\bin\Debug\_11NumberAsDecimalHexadecimalPercentScientific.exe.config
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_11NumberAsDecimalHexadecimalPercentScientific\obj\Debug\_11NumberAsDecimalHexadecimalPercentScientific.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_11NumberAsDecimalHexadecimalPercentScientific\obj\Debug\_11NumberAsDecimalHexadecimalPercentScientific.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_11NumberAsDecimalHexadecimalPercentScientific\bin\Debug\_11NumberAsDecimalHexadecimalPercentScientific.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_11NumberAsDecimalHexadecimalPercentScientific\bin\Debug\_11NumberAsDecimalHexadecimalPercentScientific.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_11NumberAsDecimalHexadecimalPercentScientific\obj\Debug\_11NumberAsDecimalHexadecimalPercentScientific.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+D:\ПРОГРАМИСТ\C# Part II\HMTextFiles\_03LinesCounter\bin\Debug\_03LinesCounter.exe.config
+D:\ПРОГРАМИСТ\C# Part II\HMTextFiles\_03LinesCounter\bin\Debug\_03LinesCounter.exe
+D:\ПРОГРАМИСТ\C# Part II\HMTextFiles\_03LinesCounter\bin\Debug\_03LinesCounter.pdb
+D:\ПРОГРАМИСТ\C# Part II\HMTextFiles\_03LinesCounter\obj\Debug\_03LinesCounter.exe
+D:\ПРОГРАМИСТ\C# Part II\HMTextFiles\_03LinesCounter\obj\Debug\_03LinesCounter.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMTextFiles\_03LinesCounter\bin\Debug\_03LinesCounter.exe.config
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMTextFiles\_03LinesCounter\obj\Debug\_03LinesCounter.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMTextFiles\_03LinesCounter\obj\Debug\_03LinesCounter.pdb

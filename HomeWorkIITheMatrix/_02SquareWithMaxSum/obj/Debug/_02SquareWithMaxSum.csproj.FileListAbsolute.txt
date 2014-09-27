@@ -1,0 +1,9 @@
+D:\Programist\C# Part II\HomeWorkIITheMatrix\_02SquareWithMaxSum\bin\Debug\_02SquareWithMaxSum.exe.config
+D:\Programist\C# Part II\HomeWorkIITheMatrix\_02SquareWithMaxSum\obj\Debug\_02SquareWithMaxSum.csprojResolveAssemblyReference.cache
+D:\Programist\C# Part II\HomeWorkIITheMatrix\_02SquareWithMaxSum\bin\Debug\_02SquareWithMaxSum.exe
+D:\Programist\C# Part II\HomeWorkIITheMatrix\_02SquareWithMaxSum\bin\Debug\_02SquareWithMaxSum.pdb
+D:\Programist\C# Part II\HomeWorkIITheMatrix\_02SquareWithMaxSum\obj\Debug\_02SquareWithMaxSum.exe
+D:\Programist\C# Part II\HomeWorkIITheMatrix\_02SquareWithMaxSum\obj\Debug\_02SquareWithMaxSum.pdb
+D:\ПРОГРАМИСТ\C# Part II\HomeWorkIITheMatrix\_02SquareWithMaxSum\bin\Debug\_02SquareWithMaxSum.exe.config
+D:\ПРОГРАМИСТ\C# Part II\HomeWorkIITheMatrix\_02SquareWithMaxSum\obj\Debug\_02SquareWithMaxSum.exe
+D:\ПРОГРАМИСТ\C# Part II\HomeWorkIITheMatrix\_02SquareWithMaxSum\obj\Debug\_02SquareWithMaxSum.pdb

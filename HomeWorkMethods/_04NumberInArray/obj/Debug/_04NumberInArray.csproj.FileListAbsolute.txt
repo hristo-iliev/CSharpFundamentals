@@ -1,0 +1,6 @@
+D:\Programist\C# Part II\HomeWorkMethods\_04NumberInArray\bin\Debug\_04NumberInArray.exe.config
+D:\Programist\C# Part II\HomeWorkMethods\_04NumberInArray\bin\Debug\_04NumberInArray.exe
+D:\Programist\C# Part II\HomeWorkMethods\_04NumberInArray\bin\Debug\_04NumberInArray.pdb
+D:\Programist\C# Part II\HomeWorkMethods\_04NumberInArray\obj\Debug\_04NumberInArray.csprojResolveAssemblyReference.cache
+D:\Programist\C# Part II\HomeWorkMethods\_04NumberInArray\obj\Debug\_04NumberInArray.exe
+D:\Programist\C# Part II\HomeWorkMethods\_04NumberInArray\obj\Debug\_04NumberInArray.pdb

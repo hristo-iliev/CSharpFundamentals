@@ -1,0 +1,9 @@
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_10Slides\bin\Debug\_10Slides.exe.config
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_10Slides\bin\Debug\_10Slides.exe
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_10Slides\bin\Debug\_10Slides.pdb
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_10Slides\obj\Debug\_10Slides.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_10Slides\obj\Debug\_10Slides.exe
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_10Slides\obj\Debug\_10Slides.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\ExamPreparation\_10Slides\bin\Debug\_10Slides.exe.config
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\ExamPreparation\_10Slides\obj\Debug\_10Slides.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\ExamPreparation\_10Slides\obj\Debug\_10Slides.pdb

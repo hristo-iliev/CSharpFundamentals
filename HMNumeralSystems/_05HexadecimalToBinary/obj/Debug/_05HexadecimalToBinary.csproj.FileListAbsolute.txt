@@ -1,0 +1,9 @@
+D:\Programist\C# Part II\HMNumeralSystems\_05HexadecimalToBinary\bin\Debug\_05HexadecimalToBinary.exe.config
+D:\Programist\C# Part II\HMNumeralSystems\_05HexadecimalToBinary\bin\Debug\_05HexadecimalToBinary.exe
+D:\Programist\C# Part II\HMNumeralSystems\_05HexadecimalToBinary\bin\Debug\_05HexadecimalToBinary.pdb
+D:\Programist\C# Part II\HMNumeralSystems\_05HexadecimalToBinary\obj\Debug\_05HexadecimalToBinary.csprojResolveAssemblyReference.cache
+D:\Programist\C# Part II\HMNumeralSystems\_05HexadecimalToBinary\obj\Debug\_05HexadecimalToBinary.exe
+D:\Programist\C# Part II\HMNumeralSystems\_05HexadecimalToBinary\obj\Debug\_05HexadecimalToBinary.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMNumeralSystems\_05HexadecimalToBinary\bin\Debug\_05HexadecimalToBinary.exe.config
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMNumeralSystems\_05HexadecimalToBinary\obj\Debug\_05HexadecimalToBinary.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMNumeralSystems\_05HexadecimalToBinary\obj\Debug\_05HexadecimalToBinary.pdb

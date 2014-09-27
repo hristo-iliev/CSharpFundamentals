@@ -1,0 +1,10 @@
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_07EncodingAndDecodingString\bin\Debug\_07EncodingAndDecodingString.exe.config
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_07EncodingAndDecodingString\bin\Debug\_07EncodingAndDecodingString.exe
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_07EncodingAndDecodingString\bin\Debug\_07EncodingAndDecodingString.pdb
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_07EncodingAndDecodingString\obj\Debug\_07EncodingAndDecodingString.exe
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_07EncodingAndDecodingString\obj\Debug\_07EncodingAndDecodingString.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_07EncodingAndDecodingString\bin\Debug\_07EncodingAndDecodingString.exe.config
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_07EncodingAndDecodingString\obj\Debug\_07EncodingAndDecodingString.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_07EncodingAndDecodingString\obj\Debug\_07EncodingAndDecodingString.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_07EncodingAndDecodingString\bin\Debug\_07EncodingAndDecodingString.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_07EncodingAndDecodingString\bin\Debug\_07EncodingAndDecodingString.pdb

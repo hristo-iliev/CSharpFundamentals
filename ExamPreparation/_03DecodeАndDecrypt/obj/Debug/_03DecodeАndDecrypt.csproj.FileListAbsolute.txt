@@ -1,0 +1,9 @@
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_03DecodeАndDecrypt\bin\Debug\_03DecodeАndDecrypt.exe.config
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_03DecodeАndDecrypt\bin\Debug\_03DecodeАndDecrypt.exe
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_03DecodeАndDecrypt\bin\Debug\_03DecodeАndDecrypt.pdb
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_03DecodeАndDecrypt\obj\Debug\_03DecodeАndDecrypt.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_03DecodeАndDecrypt\obj\Debug\_03DecodeАndDecrypt.exe
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_03DecodeАndDecrypt\obj\Debug\_03DecodeАndDecrypt.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\ExamPreparation\_03DecodeАndDecrypt\bin\Debug\_03DecodeАndDecrypt.exe.config
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\ExamPreparation\_03DecodeАndDecrypt\obj\Debug\_03DecodeАndDecrypt.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\ExamPreparation\_03DecodeАndDecrypt\obj\Debug\_03DecodeАndDecrypt.pdb

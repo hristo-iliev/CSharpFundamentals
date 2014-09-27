@@ -1,0 +1,12 @@
+D:\Programist\C# Part II\HomeWorkMethods\_01PrintName\bin\Debug\_01PrintName.exe.config
+D:\Programist\C# Part II\HomeWorkMethods\_01PrintName\obj\Debug\_01PrintName.csprojResolveAssemblyReference.cache
+D:\Programist\C# Part II\HomeWorkMethods\_01PrintName\bin\Debug\_01PrintName.exe
+D:\Programist\C# Part II\HomeWorkMethods\_01PrintName\bin\Debug\_01PrintName.pdb
+D:\Programist\C# Part II\HomeWorkMethods\_01PrintName\obj\Debug\_01PrintName.exe
+D:\Programist\C# Part II\HomeWorkMethods\_01PrintName\obj\Debug\_01PrintName.pdb
+D:\ПРОГРАМИСТ\C# Part II\HomeWorkMethods\_01PrintName\bin\Debug\_01PrintName.exe.config
+D:\ПРОГРАМИСТ\C# Part II\HomeWorkMethods\_01PrintName\obj\Debug\_01PrintName.exe
+D:\ПРОГРАМИСТ\C# Part II\HomeWorkMethods\_01PrintName\obj\Debug\_01PrintName.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HomeWorkMethods\_01PrintName\bin\Debug\_01PrintName.exe.config
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HomeWorkMethods\_01PrintName\obj\Debug\_01PrintName.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HomeWorkMethods\_01PrintName\obj\Debug\_01PrintName.pdb

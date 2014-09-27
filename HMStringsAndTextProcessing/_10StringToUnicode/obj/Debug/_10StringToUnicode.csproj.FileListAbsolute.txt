@@ -1,0 +1,12 @@
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_10StringToUnicode\bin\Debug\_10StringToUnicode.exe.config
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_10StringToUnicode\obj\Debug\_10StringToUnicode.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_10StringToUnicode\bin\Debug\_10StringToUnicode.exe
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_10StringToUnicode\bin\Debug\_10StringToUnicode.pdb
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_10StringToUnicode\obj\Debug\_10StringToUnicode.exe
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_10StringToUnicode\obj\Debug\_10StringToUnicode.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_10StringToUnicode\bin\Debug\_10StringToUnicode.exe.config
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_10StringToUnicode\obj\Debug\_10StringToUnicode.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_10StringToUnicode\obj\Debug\_10StringToUnicode.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_10StringToUnicode\bin\Debug\_10StringToUnicode.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_10StringToUnicode\bin\Debug\_10StringToUnicode.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_10StringToUnicode\obj\Debug\_10StringToUnicode.csprojResolveAssemblyReference.cache

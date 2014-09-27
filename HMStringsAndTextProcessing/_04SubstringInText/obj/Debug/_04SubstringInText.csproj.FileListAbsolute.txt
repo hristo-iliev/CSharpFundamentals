@@ -1,0 +1,12 @@
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_04SubstringInText\bin\Debug\_04SubstringInText.exe.config
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_04SubstringInText\bin\Debug\_04SubstringInText.exe
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_04SubstringInText\bin\Debug\_04SubstringInText.pdb
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_04SubstringInText\obj\Debug\_04SubstringInText.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_04SubstringInText\obj\Debug\_04SubstringInText.exe
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_04SubstringInText\obj\Debug\_04SubstringInText.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_04SubstringInText\bin\Debug\_04SubstringInText.exe.config
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_04SubstringInText\obj\Debug\_04SubstringInText.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_04SubstringInText\obj\Debug\_04SubstringInText.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_04SubstringInText\bin\Debug\_04SubstringInText.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_04SubstringInText\bin\Debug\_04SubstringInText.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_04SubstringInText\obj\Debug\_04SubstringInText.csprojResolveAssemblyReference.cache

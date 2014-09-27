@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\C# Part II\MobilePhoneDevice\MobilePhoneDevice\bin\Debug\MobilePhoneDevice.exe.config
+D:\ПРОГРАМИСТ\C# Part II\MobilePhoneDevice\MobilePhoneDevice\obj\Debug\MobilePhoneDevice.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\C# Part II\MobilePhoneDevice\MobilePhoneDevice\bin\Debug\MobilePhoneDevice.exe
+D:\ПРОГРАМИСТ\C# Part II\MobilePhoneDevice\MobilePhoneDevice\bin\Debug\MobilePhoneDevice.pdb
+D:\ПРОГРАМИСТ\C# Part II\MobilePhoneDevice\MobilePhoneDevice\obj\Debug\MobilePhoneDevice.exe
+D:\ПРОГРАМИСТ\C# Part II\MobilePhoneDevice\MobilePhoneDevice\obj\Debug\MobilePhoneDevice.pdb

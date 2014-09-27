@@ -1,0 +1,10 @@
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_23ReplacingIdenticalLetters\bin\Debug\_23ReplacingIdenticalLetters.exe.config
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_23ReplacingIdenticalLetters\bin\Debug\_23ReplacingIdenticalLetters.exe
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_23ReplacingIdenticalLetters\bin\Debug\_23ReplacingIdenticalLetters.pdb
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_23ReplacingIdenticalLetters\obj\Debug\_23ReplacingIdenticalLetters.exe
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_23ReplacingIdenticalLetters\obj\Debug\_23ReplacingIdenticalLetters.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_23ReplacingIdenticalLetters\bin\Debug\_23ReplacingIdenticalLetters.exe.config
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_23ReplacingIdenticalLetters\obj\Debug\_23ReplacingIdenticalLetters.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_23ReplacingIdenticalLetters\obj\Debug\_23ReplacingIdenticalLetters.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_23ReplacingIdenticalLetters\bin\Debug\_23ReplacingIdenticalLetters.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_23ReplacingIdenticalLetters\bin\Debug\_23ReplacingIdenticalLetters.pdb

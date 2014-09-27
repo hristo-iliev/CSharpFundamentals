@@ -1,0 +1,9 @@
+D:\Programist\C# Part II\HomeWorkIITheMatrix\_06ClassMatrix\bin\Debug\_06ClassMatrix.exe.config
+D:\Programist\C# Part II\HomeWorkIITheMatrix\_06ClassMatrix\obj\Debug\_06ClassMatrix.csprojResolveAssemblyReference.cache
+D:\Programist\C# Part II\HomeWorkIITheMatrix\_06ClassMatrix\bin\Debug\_06ClassMatrix.exe
+D:\Programist\C# Part II\HomeWorkIITheMatrix\_06ClassMatrix\bin\Debug\_06ClassMatrix.pdb
+D:\Programist\C# Part II\HomeWorkIITheMatrix\_06ClassMatrix\obj\Debug\_06ClassMatrix.exe
+D:\Programist\C# Part II\HomeWorkIITheMatrix\_06ClassMatrix\obj\Debug\_06ClassMatrix.pdb
+D:\ПРОГРАМИСТ\C# Part II\HomeWorkIITheMatrix\_06ClassMatrix\bin\Debug\_06ClassMatrix.exe.config
+D:\ПРОГРАМИСТ\C# Part II\HomeWorkIITheMatrix\_06ClassMatrix\obj\Debug\_06ClassMatrix.exe
+D:\ПРОГРАМИСТ\C# Part II\HomeWorkIITheMatrix\_06ClassMatrix\obj\Debug\_06ClassMatrix.pdb

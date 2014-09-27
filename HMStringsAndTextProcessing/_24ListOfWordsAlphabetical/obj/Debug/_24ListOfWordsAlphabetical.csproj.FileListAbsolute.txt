@@ -1,0 +1,10 @@
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_24ListOfWordsAlphabetical\bin\Debug\_24ListOfWordsAlphabetical.exe.config
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_24ListOfWordsAlphabetical\bin\Debug\_24ListOfWordsAlphabetical.exe
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_24ListOfWordsAlphabetical\bin\Debug\_24ListOfWordsAlphabetical.pdb
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_24ListOfWordsAlphabetical\obj\Debug\_24ListOfWordsAlphabetical.exe
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_24ListOfWordsAlphabetical\obj\Debug\_24ListOfWordsAlphabetical.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_24ListOfWordsAlphabetical\bin\Debug\_24ListOfWordsAlphabetical.exe.config
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_24ListOfWordsAlphabetical\obj\Debug\_24ListOfWordsAlphabetical.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_24ListOfWordsAlphabetical\obj\Debug\_24ListOfWordsAlphabetical.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_24ListOfWordsAlphabetical\bin\Debug\_24ListOfWordsAlphabetical.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_24ListOfWordsAlphabetical\bin\Debug\_24ListOfWordsAlphabetical.pdb

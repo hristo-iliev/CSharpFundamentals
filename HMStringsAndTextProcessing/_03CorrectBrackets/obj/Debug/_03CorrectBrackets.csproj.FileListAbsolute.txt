@@ -1,0 +1,12 @@
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_03CorrectBrackets\bin\Debug\_03CorrectBrackets.exe.config
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_03CorrectBrackets\bin\Debug\_03CorrectBrackets.exe
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_03CorrectBrackets\bin\Debug\_03CorrectBrackets.pdb
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_03CorrectBrackets\obj\Debug\_03CorrectBrackets.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_03CorrectBrackets\obj\Debug\_03CorrectBrackets.exe
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_03CorrectBrackets\obj\Debug\_03CorrectBrackets.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_03CorrectBrackets\bin\Debug\_03CorrectBrackets.exe.config
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_03CorrectBrackets\obj\Debug\_03CorrectBrackets.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_03CorrectBrackets\obj\Debug\_03CorrectBrackets.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_03CorrectBrackets\bin\Debug\_03CorrectBrackets.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_03CorrectBrackets\bin\Debug\_03CorrectBrackets.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_03CorrectBrackets\obj\Debug\_03CorrectBrackets.csprojResolveAssemblyReference.cache

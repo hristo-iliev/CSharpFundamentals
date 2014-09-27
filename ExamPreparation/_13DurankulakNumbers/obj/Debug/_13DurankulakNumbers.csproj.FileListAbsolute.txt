@@ -1,0 +1,9 @@
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_13DurankulakNumbers\bin\Debug\_13DurankulakNumbers.exe.config
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_13DurankulakNumbers\obj\Debug\_13DurankulakNumbers.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_13DurankulakNumbers\bin\Debug\_13DurankulakNumbers.exe
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_13DurankulakNumbers\bin\Debug\_13DurankulakNumbers.pdb
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_13DurankulakNumbers\obj\Debug\_13DurankulakNumbers.exe
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_13DurankulakNumbers\obj\Debug\_13DurankulakNumbers.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\ExamPreparation\_13DurankulakNumbers\bin\Debug\_13DurankulakNumbers.exe.config
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\ExamPreparation\_13DurankulakNumbers\obj\Debug\_13DurankulakNumbers.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\ExamPreparation\_13DurankulakNumbers\obj\Debug\_13DurankulakNumbers.pdb

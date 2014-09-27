@@ -1,0 +1,9 @@
+D:\ПРОГРАМИСТ\C# Part II\HMExceptions\_04DownloadingFile\bin\Debug\_04DownloadingFile.exe.config
+D:\ПРОГРАМИСТ\C# Part II\HMExceptions\_04DownloadingFile\bin\Debug\_04DownloadingFile.exe
+D:\ПРОГРАМИСТ\C# Part II\HMExceptions\_04DownloadingFile\bin\Debug\_04DownloadingFile.pdb
+D:\ПРОГРАМИСТ\C# Part II\HMExceptions\_04DownloadingFile\obj\Debug\_04DownloadingFile.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\C# Part II\HMExceptions\_04DownloadingFile\obj\Debug\_04DownloadingFile.exe
+D:\ПРОГРАМИСТ\C# Part II\HMExceptions\_04DownloadingFile\obj\Debug\_04DownloadingFile.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMExceptions\_04DownloadingFile\bin\Debug\_04DownloadingFile.exe.config
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMExceptions\_04DownloadingFile\obj\Debug\_04DownloadingFile.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMExceptions\_04DownloadingFile\obj\Debug\_04DownloadingFile.pdb

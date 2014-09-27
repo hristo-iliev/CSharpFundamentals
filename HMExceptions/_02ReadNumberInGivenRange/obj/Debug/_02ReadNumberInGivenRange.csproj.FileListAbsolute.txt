@@ -1,0 +1,8 @@
+D:\ПРОГРАМИСТ\C# Part II\HMExceptions\_02ReadNumberInGivenRange\bin\Debug\_02ReadNumberInGivenRange.exe.config
+D:\ПРОГРАМИСТ\C# Part II\HMExceptions\_02ReadNumberInGivenRange\bin\Debug\_02ReadNumberInGivenRange.exe
+D:\ПРОГРАМИСТ\C# Part II\HMExceptions\_02ReadNumberInGivenRange\bin\Debug\_02ReadNumberInGivenRange.pdb
+D:\ПРОГРАМИСТ\C# Part II\HMExceptions\_02ReadNumberInGivenRange\obj\Debug\_02ReadNumberInGivenRange.exe
+D:\ПРОГРАМИСТ\C# Part II\HMExceptions\_02ReadNumberInGivenRange\obj\Debug\_02ReadNumberInGivenRange.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMExceptions\_02ReadNumberInGivenRange\bin\Debug\_02ReadNumberInGivenRange.exe.config
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMExceptions\_02ReadNumberInGivenRange\obj\Debug\_02ReadNumberInGivenRange.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMExceptions\_02ReadNumberInGivenRange\obj\Debug\_02ReadNumberInGivenRange.pdb

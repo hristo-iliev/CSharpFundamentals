@@ -1,0 +1,8 @@
+D:\ПРОГРАМИСТ\C# Part II\HMClassObject\_03Today\bin\Debug\_03Today.exe.config
+D:\ПРОГРАМИСТ\C# Part II\HMClassObject\_03Today\bin\Debug\_03Today.exe
+D:\ПРОГРАМИСТ\C# Part II\HMClassObject\_03Today\bin\Debug\_03Today.pdb
+D:\ПРОГРАМИСТ\C# Part II\HMClassObject\_03Today\obj\Debug\_03Today.exe
+D:\ПРОГРАМИСТ\C# Part II\HMClassObject\_03Today\obj\Debug\_03Today.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMClassObject\_03Today\bin\Debug\_03Today.exe.config
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMClassObject\_03Today\obj\Debug\_03Today.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMClassObject\_03Today\obj\Debug\_03Today.pdb

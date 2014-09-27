@@ -1,0 +1,9 @@
+D:\ПРОГРАМИСТ\C# Part II\HMTextFiles\_11DeletingWordsWithPrefixTest\bin\Debug\_11DeletingWordsWithPrefixTest.exe.config
+D:\ПРОГРАМИСТ\C# Part II\HMTextFiles\_11DeletingWordsWithPrefixTest\obj\Debug\_11DeletingWordsWithPrefixTest.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\C# Part II\HMTextFiles\_11DeletingWordsWithPrefixTest\bin\Debug\_11DeletingWordsWithPrefixTest.exe
+D:\ПРОГРАМИСТ\C# Part II\HMTextFiles\_11DeletingWordsWithPrefixTest\bin\Debug\_11DeletingWordsWithPrefixTest.pdb
+D:\ПРОГРАМИСТ\C# Part II\HMTextFiles\_11DeletingWordsWithPrefixTest\obj\Debug\_11DeletingWordsWithPrefixTest.exe
+D:\ПРОГРАМИСТ\C# Part II\HMTextFiles\_11DeletingWordsWithPrefixTest\obj\Debug\_11DeletingWordsWithPrefixTest.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMTextFiles\_11DeletingWordsWithPrefixTest\bin\Debug\_11DeletingWordsWithPrefixTest.exe.config
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMTextFiles\_11DeletingWordsWithPrefixTest\obj\Debug\_11DeletingWordsWithPrefixTest.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMTextFiles\_11DeletingWordsWithPrefixTest\obj\Debug\_11DeletingWordsWithPrefixTest.pdb

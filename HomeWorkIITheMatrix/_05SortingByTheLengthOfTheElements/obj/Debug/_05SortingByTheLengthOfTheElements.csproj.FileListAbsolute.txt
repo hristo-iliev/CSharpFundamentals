@@ -1,0 +1,9 @@
+D:\Programist\C# Part II\HomeWorkIITheMatrix\_05SortingByTheLengthOfTheElements\bin\Debug\_05SortingByTheLengthOfTheElements.exe.config
+D:\Programist\C# Part II\HomeWorkIITheMatrix\_05SortingByTheLengthOfTheElements\bin\Debug\_05SortingByTheLengthOfTheElements.exe
+D:\Programist\C# Part II\HomeWorkIITheMatrix\_05SortingByTheLengthOfTheElements\bin\Debug\_05SortingByTheLengthOfTheElements.pdb
+D:\Programist\C# Part II\HomeWorkIITheMatrix\_05SortingByTheLengthOfTheElements\obj\Debug\_05SortingByTheLengthOfTheElements.csprojResolveAssemblyReference.cache
+D:\Programist\C# Part II\HomeWorkIITheMatrix\_05SortingByTheLengthOfTheElements\obj\Debug\_05SortingByTheLengthOfTheElements.exe
+D:\Programist\C# Part II\HomeWorkIITheMatrix\_05SortingByTheLengthOfTheElements\obj\Debug\_05SortingByTheLengthOfTheElements.pdb
+D:\ПРОГРАМИСТ\C# Part II\HomeWorkIITheMatrix\_05SortingByTheLengthOfTheElements\bin\Debug\_05SortingByTheLengthOfTheElements.exe.config
+D:\ПРОГРАМИСТ\C# Part II\HomeWorkIITheMatrix\_05SortingByTheLengthOfTheElements\obj\Debug\_05SortingByTheLengthOfTheElements.exe
+D:\ПРОГРАМИСТ\C# Part II\HomeWorkIITheMatrix\_05SortingByTheLengthOfTheElements\obj\Debug\_05SortingByTheLengthOfTheElements.pdb

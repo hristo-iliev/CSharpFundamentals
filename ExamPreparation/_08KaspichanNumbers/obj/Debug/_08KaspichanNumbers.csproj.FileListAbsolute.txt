@@ -1,0 +1,9 @@
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_08KaspichanNumbers\bin\Debug\_08KaspichanNumbers.exe.config
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_08KaspichanNumbers\bin\Debug\_08KaspichanNumbers.exe
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_08KaspichanNumbers\bin\Debug\_08KaspichanNumbers.pdb
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_08KaspichanNumbers\obj\Debug\_08KaspichanNumbers.exe
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_08KaspichanNumbers\obj\Debug\_08KaspichanNumbers.pdb
+D:\ПРОГРАМИСТ\C# Part II\ExamPreparation\_08KaspichanNumbers\obj\Debug\_08KaspichanNumbers.csprojResolveAssemblyReference.cache
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\ExamPreparation\_08KaspichanNumbers\bin\Debug\_08KaspichanNumbers.exe.config
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\ExamPreparation\_08KaspichanNumbers\obj\Debug\_08KaspichanNumbers.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\ExamPreparation\_08KaspichanNumbers\obj\Debug\_08KaspichanNumbers.pdb

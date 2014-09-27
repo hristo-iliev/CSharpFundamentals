@@ -1,0 +1,9 @@
+D:\ПРОГРАМИСТ\C# Part II\HMExceptions\_01SquareRoot\bin\Debug\_01SquareRoot.exe.config
+D:\ПРОГРАМИСТ\C# Part II\HMExceptions\_01SquareRoot\bin\Debug\_01SquareRoot.exe
+D:\ПРОГРАМИСТ\C# Part II\HMExceptions\_01SquareRoot\bin\Debug\_01SquareRoot.pdb
+D:\ПРОГРАМИСТ\C# Part II\HMExceptions\_01SquareRoot\obj\Debug\_01SquareRoot.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\C# Part II\HMExceptions\_01SquareRoot\obj\Debug\_01SquareRoot.exe
+D:\ПРОГРАМИСТ\C# Part II\HMExceptions\_01SquareRoot\obj\Debug\_01SquareRoot.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMExceptions\_01SquareRoot\bin\Debug\_01SquareRoot.exe.config
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMExceptions\_01SquareRoot\obj\Debug\_01SquareRoot.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMExceptions\_01SquareRoot\obj\Debug\_01SquareRoot.pdb

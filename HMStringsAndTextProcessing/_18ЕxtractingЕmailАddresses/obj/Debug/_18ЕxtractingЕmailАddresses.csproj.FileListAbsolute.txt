@@ -1,0 +1,12 @@
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_18ЕxtractingЕmailАddresses\bin\Debug\_18ЕxtractingЕmailАddresses.exe.config
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_18ЕxtractingЕmailАddresses\bin\Debug\_18ЕxtractingЕmailАddresses.exe
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_18ЕxtractingЕmailАddresses\bin\Debug\_18ЕxtractingЕmailАddresses.pdb
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_18ЕxtractingЕmailАddresses\obj\Debug\_18ЕxtractingЕmailАddresses.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_18ЕxtractingЕmailАddresses\obj\Debug\_18ЕxtractingЕmailАddresses.exe
+D:\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_18ЕxtractingЕmailАddresses\obj\Debug\_18ЕxtractingЕmailАddresses.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_18ЕxtractingЕmailАddresses\bin\Debug\_18ЕxtractingЕmailАddresses.exe.config
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_18ЕxtractingЕmailАddresses\obj\Debug\_18ЕxtractingЕmailАddresses.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_18ЕxtractingЕmailАddresses\obj\Debug\_18ЕxtractingЕmailАddresses.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_18ЕxtractingЕmailАddresses\bin\Debug\_18ЕxtractingЕmailАddresses.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_18ЕxtractingЕmailАddresses\bin\Debug\_18ЕxtractingЕmailАddresses.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMStringsAndTextProcessing\_18ЕxtractingЕmailАddresses\obj\Debug\_18ЕxtractingЕmailАddresses.csprojResolveAssemblyReference.cache

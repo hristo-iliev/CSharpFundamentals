@@ -1,0 +1,5 @@
+D:\Programist\C# Part II\HomeWorkMethods\_08SumOfTwoPositiveIntegers\bin\Debug\_08SumOfTwoPositiveIntegers.exe.config
+D:\Programist\C# Part II\HomeWorkMethods\_08SumOfTwoPositiveIntegers\bin\Debug\_08SumOfTwoPositiveIntegers.exe
+D:\Programist\C# Part II\HomeWorkMethods\_08SumOfTwoPositiveIntegers\bin\Debug\_08SumOfTwoPositiveIntegers.pdb
+D:\Programist\C# Part II\HomeWorkMethods\_08SumOfTwoPositiveIntegers\obj\Debug\_08SumOfTwoPositiveIntegers.exe
+D:\Programist\C# Part II\HomeWorkMethods\_08SumOfTwoPositiveIntegers\obj\Debug\_08SumOfTwoPositiveIntegers.pdb

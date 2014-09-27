@@ -1,0 +1,9 @@
+D:\ПРОГРАМИСТ\C# Part II\HMTextFiles\_09DeleteOddLines\bin\Debug\_09DeleteOddLines.exe.config
+D:\ПРОГРАМИСТ\C# Part II\HMTextFiles\_09DeleteOddLines\bin\Debug\_09DeleteOddLines.exe
+D:\ПРОГРАМИСТ\C# Part II\HMTextFiles\_09DeleteOddLines\bin\Debug\_09DeleteOddLines.pdb
+D:\ПРОГРАМИСТ\C# Part II\HMTextFiles\_09DeleteOddLines\obj\Debug\_09DeleteOddLines.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\C# Part II\HMTextFiles\_09DeleteOddLines\obj\Debug\_09DeleteOddLines.exe
+D:\ПРОГРАМИСТ\C# Part II\HMTextFiles\_09DeleteOddLines\obj\Debug\_09DeleteOddLines.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMTextFiles\_09DeleteOddLines\bin\Debug\_09DeleteOddLines.exe.config
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMTextFiles\_09DeleteOddLines\obj\Debug\_09DeleteOddLines.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMTextFiles\_09DeleteOddLines\obj\Debug\_09DeleteOddLines.pdb

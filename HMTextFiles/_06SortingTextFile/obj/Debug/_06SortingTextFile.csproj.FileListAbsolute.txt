@@ -1,0 +1,9 @@
+D:\ПРОГРАМИСТ\C# Part II\HMTextFiles\_06SortingTextFile\bin\Debug\_06SortingTextFile.exe.config
+D:\ПРОГРАМИСТ\C# Part II\HMTextFiles\_06SortingTextFile\bin\Debug\_06SortingTextFile.exe
+D:\ПРОГРАМИСТ\C# Part II\HMTextFiles\_06SortingTextFile\bin\Debug\_06SortingTextFile.pdb
+D:\ПРОГРАМИСТ\C# Part II\HMTextFiles\_06SortingTextFile\obj\Debug\_06SortingTextFile.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\C# Part II\HMTextFiles\_06SortingTextFile\obj\Debug\_06SortingTextFile.exe
+D:\ПРОГРАМИСТ\C# Part II\HMTextFiles\_06SortingTextFile\obj\Debug\_06SortingTextFile.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMTextFiles\_06SortingTextFile\bin\Debug\_06SortingTextFile.exe.config
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMTextFiles\_06SortingTextFile\obj\Debug\_06SortingTextFile.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HMTextFiles\_06SortingTextFile\obj\Debug\_06SortingTextFile.pdb

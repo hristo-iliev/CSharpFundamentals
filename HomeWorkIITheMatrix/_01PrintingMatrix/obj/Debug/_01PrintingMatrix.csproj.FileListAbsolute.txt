@@ -1,0 +1,12 @@
+D:\Programist\C# Part II\HomeWorkIITheMatrix\_01PrintingMatrix\bin\Debug\_01PrintingMatrix.exe.config
+D:\Programist\C# Part II\HomeWorkIITheMatrix\_01PrintingMatrix\obj\Debug\_01PrintingMatrix.csprojResolveAssemblyReference.cache
+D:\Programist\C# Part II\HomeWorkIITheMatrix\_01PrintingMatrix\bin\Debug\_01PrintingMatrix.exe
+D:\Programist\C# Part II\HomeWorkIITheMatrix\_01PrintingMatrix\bin\Debug\_01PrintingMatrix.pdb
+D:\Programist\C# Part II\HomeWorkIITheMatrix\_01PrintingMatrix\obj\Debug\_01PrintingMatrix.exe
+D:\Programist\C# Part II\HomeWorkIITheMatrix\_01PrintingMatrix\obj\Debug\_01PrintingMatrix.pdb
+D:\ПРОГРАМИСТ\C# Part II\HomeWorkIITheMatrix\_01PrintingMatrix\bin\Debug\_01PrintingMatrix.exe.config
+D:\ПРОГРАМИСТ\C# Part II\HomeWorkIITheMatrix\_01PrintingMatrix\obj\Debug\_01PrintingMatrix.exe
+D:\ПРОГРАМИСТ\C# Part II\HomeWorkIITheMatrix\_01PrintingMatrix\obj\Debug\_01PrintingMatrix.pdb
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HomeWorkIITheMatrix\_01PrintingMatrix\bin\Debug\_01PrintingMatrix.exe.config
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HomeWorkIITheMatrix\_01PrintingMatrix\obj\Debug\_01PrintingMatrix.exe
+D:\New folder (2)\ПРОГРАМИСТ\C# Part II\HomeWorkIITheMatrix\_01PrintingMatrix\obj\Debug\_01PrintingMatrix.pdb
